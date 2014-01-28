@@ -1,0 +1,400 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  2_id1_clustalw-msf2 MSF:  177 Type: P 26/01/12 CompCheck: 2448 --
+
+  Name: Query_id                       Len: 177  Check: 8283 Weight: 1-00
+  Name: Streptomyces_sp-               Len: 177  Check: 7140 Weight: 1-00
+  Name: Kribbella_flavida              Len: 177  Check: 2680 Weight: 1-00
+  Name: Deinococcus_maricopensis       Len: 177  Check: 7935 Weight: 1-00
+  Name: Deinococcus_deserti            Len: 177  Check: 7865 Weight: 1-00
+  Name: Streptomyces_pristinaespiralis Len: 177  Check: 6074 Weight: 1-00
+  Name: Streptomyces_viridochromogenes Len: 177  Check: 8902 Weight: 1-00
+  Name: Streptomyces_griseus           Len: 177  Check: 5901 Weight: 1-00
+  Name: Streptomyces_cf-               Len: 177  Check: 5906 Weight: 1-00
+  Name: Streptomyces_zinciresistens    Len: 177  Check: 5502 Weight: 1-00
+  Name: Actinosynnema_mirum            Len: 177  Check: 5020 Weight: 1-00
+  Name: Amycolatopsis_mediterranei     Len: 177  Check: 2461 Weight: 1-00
+  Name: Saccharopolyspora_spinosa      Len: 177  Check: 2478 Weight: 1-00
+  Name: Saccharopolyspora_erythraea    Len: 177  Check: 3210 Weight: 1-00
+  Name: Burkholderia_oklahomensis      Len: 177  Check: 8595 Weight: 1-00
+  Name: Pectobacterium_wasabiae        Len: 177  Check: 1635 Weight: 1-00
+  Name: Pectobacterium_carotovorum     Len: 177  Check: 9418 Weight: 1-00
+  Name: Clostridium_botulinum          Len: 177  Check:   39 Weight: 1-00
+  Name: Methanobrevibacter_ruminantium Len: 177  Check: 8750 Weight: 1-00
+  Name: Methanosphaera_stadtmanae      Len: 177  Check: 5633 Weight: 1-00
+  Name: Eubacterium_yurii              Len: 177  Check: 9094 Weight: 1-00
+  Name: Eubacterium_hallii             Len: 177  Check: 4522 Weight: 1-00
+  Name: Butyrivibrio_proteoclasticus   Len: 177  Check: 2320 Weight: 1-00
+  Name: Acidovorax_citrulli            Len: 177  Check: 6006 Weight: 1-00
+  Name: Microscilla_marina             Len: 177  Check: 9104 Weight: 1-00
+  Name: Ralstonia_eutropha             Len: 177  Check: 5932 Weight: 1-00
+  Name: Pirellula_staleyi              Len: 177  Check:  361 Weight: 1-00
+  Name: Nocardioidaceae_bacterium      Len: 177  Check: 1857 Weight: 1-00
+  Name: Methylomonas_methanica         Len: 177  Check: 9887 Weight: 1-00
+  Name: Burkholderia_xenovorans        Len: 177  Check: 6217 Weight: 1-00
+  Name: Burkholderia_sp-               Len: 177  Check: 9053 Weight: 1-00
+  Name: Burkholderia_phytofirmans      Len: 177  Check: 9802 Weight: 1-00
+  Name: Burkholderia_phymatum          Len: 177  Check: 6423 Weight: 1-00
+  Name: Burkholderia_cenocepacia       Len: 177  Check: 5415 Weight: 1-00
+  Name: Burkholderia_ambifaria         Len: 177  Check: 8923 Weight: 1-00
+  Name: Burkholderia_multivorans       Len: 177  Check: 4043 Weight: 1-00
+  Name: Burkholderia_ubonensis         Len: 177  Check: 3815 Weight: 1-00
+  Name: Burkholderia_dolosa            Len: 177  Check: 6039 Weight: 1-00
+  Name: Burkholderia_vietnamiensis     Len: 177  Check: 4999 Weight: 1-00
+  Name: Burkholderia_mallei            Len: 177  Check: 3034 Weight: 1-00
+  Name: Burkholderia_pseudomallei      Len: 177  Check: 3538 Weight: 1-00
+  Name: Burkholderia_thailandensis     Len: 177  Check: 3427 Weight: 1-00
+  Name: Burkholderia_gladioli          Len: 177  Check: 5764 Weight: 1-00
+  Name: Burkholderia_glumae            Len: 177  Check: 6671 Weight: 1-00
+  Name: Burkholderia_graminis          Len: 177  Check:  454 Weight: 1-00
+  Name: Rubrivivax_benzoatilyticus     Len: 177  Check: 1288 Weight: 1-00
+  Name: Methylibium_petroleiphilum     Len: 177  Check: 7050 Weight: 1-00
+  Name: Variovorax_paradoxus           Len: 177  Check: 6425 Weight: 1-00
+  Name: Thiomonas_intermedia           Len: 177  Check: 1650 Weight: 1-00
+  Name: Leptothrix_cholodnii           Len: 177  Check: 5776 Weight: 1-00
+  Name: Ramlibacter_tataouinensis      Len: 177  Check: 9706 Weight: 1-00
+  Name: Alicycliphilus_denitrificans   Len: 177  Check: 9312 Weight: 1-00
+  Name: Acidovorax_sp-                 Len: 177  Check: 4780 Weight: 1-00
+  Name: Acidovorax_avenae              Len: 177  Check: 5249 Weight: 1-00
+  Name: Acidovorax_radicis             Len: 177  Check: 7156 Weight: 1-00
+  Name: Verminephrobacter_eiseniae     Len: 177  Check:  812 Weight: 1-00
+  Name: Acidovorax_delafieldii         Len: 177  Check: 2881 Weight: 1-00
+  Name: Polaromonas_sp-                Len: 177  Check: 2576 Weight: 1-00
+  Name: Delftia_sp-                    Len: 177  Check:  729 Weight: 1-00
+  Name: Delftia_acidovorans            Len: 177  Check: 1059 Weight: 1-00
+  Name: Comamonas_testosteroni         Len: 177  Check: 8020 Weight: 1-00
+  Name: Lautropia_mirabilis            Len: 177  Check:  617 Weight: 1-00
+  Name: Herbaspirillum_seropedicae     Len: 177  Check: 6527 Weight: 1-00
+  Name: Collimonas_fungivorans         Len: 177  Check:  785 Weight: 1-00
+  Name: Janthinobacterium_sp-          Len: 177  Check: 3695 Weight: 1-00
+  Name: Herminiimonas_arsenicoxydans   Len: 177  Check: 1681 Weight: 1-00
+  Name: Cupriavidus_necator            Len: 177  Check: 5832 Weight: 1-00
+  Name: Cupriavidus_taiwanensis        Len: 177  Check: 5915 Weight: 1-00
+  Name: Cupriavidus_metallidurans      Len: 177  Check: 5220 Weight: 1-00
+  Name: Ralstonia_solanacearum         Len: 177  Check: 7248 Weight: 1-00
+  Name: Ralstonia_sp-                  Len: 177  Check: 5053 Weight: 1-00
+  Name: Ralstonia_pickettii            Len: 177  Check: 5938 Weight: 1-00
+  Name: Candidatus_Accumulibacter      Len: 177  Check:  748 Weight: 1-00
+  Name: Mycobacterium_abscessus        Len: 177  Check: 6561 Weight: 1-00
+  Name: Burkholderia_rhizoxinica       Len: 177  Check: 8256 Weight: 1-00
+  Name: Microlunatus_phosphovorus      Len: 177  Check: 1155 Weight: 1-00
+  Name: Dermacoccus_sp-                Len: 177  Check: 2621 Weight: 1-00
+
+//
+
+           1                                               50
+Query_id                       ------------------------------------------DVSGTVCL
+Streptomyces_sp-               ---------------------------PPSGGAATPAVPGWAKGMATVRA
+Kribbella_flavida              ---------------------------PVSG-------------LAFVAA
+Deinococcus_maricopensis       ---------------------------------------DAESGLPIVAL
+Deinococcus_deserti            ----------------------------------------PHSGLRWIAR
+Streptomyces_pristinaespiralis ------------------------------------------LAVGDICY
+Streptomyces_viridochromogenes --------------------------------------DAAPTAVGDICY
+Streptomyces_griseus           ------------------------------------------AAVGSICY
+Streptomyces_cf-               ------------------------------------------AAVGSICY
+Streptomyces_zinciresistens    ------------------------------------------AAVGSVCQ
+Actinosynnema_mirum            -----------------------------------SVPGASASGFSVQPL
+Amycolatopsis_mediterranei     -----------------------------------AVPGA-DSGLPVKAL
+Saccharopolyspora_spinosa      -----------------------------------AVPGA-ESGLPAKQL
+Saccharopolyspora_erythraea    ---------------------------DYTGAGDQQVPGATESGLQVSPM
+Burkholderia_oklahomensis      -----------------------DPVGLKCTHHAKNPKEAHAAIKDKWGH
+Pectobacterium_wasabiae        ----GLAGGLNLYQYAPNPLGWVDPLGLKCTHSAKNPKQTHAAIKDKWGQ
+Pectobacterium_carotovorum     ---------GLARSVCQARYERYKDYRSQGYSAEEAAKLSKGANPAMITP
+Clostridium_botulinum          ----------------------------------------NIDDIPWITL
+Methanobrevibacter_ruminantium VVSVSGCIGDDSSSDTTSISADALNITEDGTYDSKEEVAAYIDEYHKLPS
+Methanosphaera_stadtmanae      --------------------------VENGQYCTVDEVAAYIKEYHKLPS
+Eubacterium_yurii              -------QTSQNVNVKTSQSDDKKTVTENGNYSSKEEVALYIHTYGKLPS
+Eubacterium_hallii             --------------------ETDGYLDKDGSYTSKEDIMNYLIEYGQLPN
+Butyrivibrio_proteoclasticus   ------------------------------------DVADYIITFGKLPA
+Acidovorax_citrulli            --------------------------GLAGGVNLYQYAPNPIYWADPLGL
+Microscilla_marina             -------------------------------WTANKTCLANQVATEPSGT
+Ralstonia_eutropha             ----------------------------SHIASPCRFVYESAPHRATGNV
+Pirellula_staleyi              -------------------------------------------DQSGRVV
+Nocardioidaceae_bacterium      --------------------------------GKTGTDPDSG--LTWIAE
+Methylomonas_methanica         --------------------------------GMLGRGGGMGNALFSIDY
+Burkholderia_xenovorans        -----------------------------------------G-VQATVTT
+Burkholderia_sp-               --------------------------------------SASG-AQATVTK
+Burkholderia_phytofirmans      ----------------EASGASASEASAPPAASASAPAVASG-ALGTVTK
+Burkholderia_phymatum          -----------------------------------------G-VLAAVTK
+Burkholderia_cenocepacia       ------------------------------------DVAASG--LDTIPT
+Burkholderia_ambifaria         --------------------------------AVSADLAVGG--VDTIPT
+Burkholderia_multivorans       ------------------------------------DVAAGG--FDTIPT
+Burkholderia_ubonensis         ------------------------------------DVAAGG--FATIPT
+Burkholderia_dolosa            ------------------------------------DVAAGG--FDTIPT
+Burkholderia_vietnamiensis     ------------------------------------DVAAAG--VDTVPA
+Burkholderia_mallei            ----------------------------------TVDGAAAQ--VDTIPA
+Burkholderia_pseudomallei      ----------------------------------TVDGAAAQ--VDTIPA
+Burkholderia_thailandensis     ----------------------------------AVNGAAAQ--VDTVPA
+Burkholderia_gladioli          ----------------------------PVSSAYAREIAPTGAAVGTIAT
+Burkholderia_glumae            ----------------------------AVSS-----MAP----VGTIPT
+Burkholderia_graminis          --------------------------------------QALG----TVTV
+Rubrivivax_benzoatilyticus     ----------------------------------------EAAD--VVSL
+Methylibium_petroleiphilum     ----------------------------------------DSAPRAVVSL
+Variovorax_paradoxus           -----------------------------------------SAE-ESIAL
+Thiomonas_intermedia           -------------------------------ETSQSSQTSALQDIPVISV
+Leptothrix_cholodnii           ---------------------------------------AASSDLASVVL
+Ramlibacter_tataouinensis      ------------------------------------------GGSAAISL
+Alicycliphilus_denitrificans   --------------------------------GASARQASEAAAIPPIAL
+Acidovorax_sp-                 ----------------------------------------DTAANPPISL
+Acidovorax_avenae              -----------------------------PLSGEARNAPSP-GGTDTIAL
+Acidovorax_radicis             -----------------------------PVAGHARNSPSTDGSISPIAL
+Verminephrobacter_eiseniae     ------------------------------------------GIASSITL
+Acidovorax_delafieldii         --------------------------------------------MASIAV
+Polaromonas_sp-                ---------------------------------------ANAGPVATISA
+Delftia_sp-                    ------------------------------------------AAVATVAL
+Delftia_acidovorans            ------------------------------------------AAMATVPL
+Comamonas_testosteroni         ----------------------------------------TVPGFETVSL
+Lautropia_mirabilis            ------------------------------------------DGLGTVAV
+Herbaspirillum_seropedicae     ---------------------------------------PAPGGLPEVNL
+Collimonas_fungivorans         -----------------------------------------SLSQDVVSI
+Janthinobacterium_sp-          ------------------------------------------GALGVVSV
+Herminiimonas_arsenicoxydans   ------------------------------------------GALGIVQA
+Cupriavidus_necator            -----------------------------------------EG-MGTIAV
+Cupriavidus_taiwanensis        -----------------------------------------EG-LGTIAV
+Cupriavidus_metallidurans      ---------------------------------------DVQGVVGTIAA
+Ralstonia_solanacearum         ------------------------------------DTTGMSAAVGTIPA
+Ralstonia_sp-                  ------------------------------------DNSGMAAAVGTIRA
+Ralstonia_pickettii            ------------------------------------DTSGMAAAVGTIRP
+Candidatus_Accumulibacter      ----------------------------------DVVHAREGQYLRTIAV
+Mycobacterium_abscessus        --------------------RVVGAALLALALIGCTEPSPARATISQCNL
+Burkholderia_rhizoxinica       ------------------------------------------ASLGEVSI
+Microlunatus_phosphovorus      ---------------------------------TCAGTTVDAGGWTWVCL
+Dermacoccus_sp-                ---------------------------DAAG---------------VVPV
+
+           51                                             100
+Query_id                       SALPPEATDTLNLIA----SDGPFPYS---Q-DGVVFQ------NRESVL
+Streptomyces_sp-               SALPQQARDVLALID----QGGPYPYR---Q-DGTVFG------NFEKAL
+Kribbella_flavida              ADLPAEARETLKLID----QGGPFPYR---R-DGVVFG------NFERLL
+Deinococcus_maricopensis       QTLPPEARRTFTLIR----AGGPFPH----AQDGQVFG------NRERLL
+Deinococcus_deserti            SELPPEGREMLRLIA----RGGPFRY----SRDGAAFG------NRERLL
+Streptomyces_pristinaespiralis SALPSQAHDTLDLIE----QGGPFPYE---Q-DGTVFQ------NREGIL
+Streptomyces_viridochromogenes SELPSQAHDTLDLIE----QGGPYPFE---Q-DGTVFQ------NRERVL
+Streptomyces_griseus           SALPSQAHDTLDLIE----RGGPFPFE---Q-DGTVFQ------NREGLL
+Streptomyces_cf-               SALPSQAHDTLELIE----RGGPFPFE---Q-DGTVFQ------NREGLL
+Streptomyces_zinciresistens    SALPAQANDTLRLIE----QGGPYPFT---Q-DGTVFQ------NRERIL
+Actinosynnema_mirum            SELPAQAAETWKLIT----SDGPFPYP---RNDGVVFR------NREKLL
+Amycolatopsis_mediterranei     STLPPQASDTWKLIE----AGGPYPYP---RNDDVVFE------NREKRL
+Saccharopolyspora_spinosa      STLPAEAGKTWQLIV----KGGPFPYP---GKDGSVFG------NREGVL
+Saccharopolyspora_erythraea    SALPPEVRATWKSIA----DGGPFRYP---GRDGTVFS------NREERL
+Burkholderia_oklahomensis      EMTPAEMRELQRTIDN---IKSNRQTY---PRDGIPFDNDFRK-SPDGQR
+Pectobacterium_wasabiae        SMSKRDMRELQNTVDR---IKLNKPRY---SNDGTPFSNTHTMGNPNSQR
+Pectobacterium_carotovorum     GSLPAAEEAAVNRTLG-HIDNGDKPAGALGKKWGTTFK------NHQGEL
+Clostridium_botulinum          KSLPIDEERALLDSLK-HVDDGTIPNGNLSRRWAIPFR------NRDGDL
+Methanobrevibacter_ruminantium NYITKSEAKALGWHG--GSVEKYAPGK---CIGGDIFS------NRQSIL
+Methanosphaera_stadtmanae      NYITKKEAQKLGWNG--GPLKEYAPGK---SIGGDVFT------NRQKIL
+Eubacterium_yurii              NFITKSQAKDLGWDSKKANLWEVAKGK---SLGGDRFS------NRERTL
+Eubacterium_hallii             NFITKKEAKKLGWSG--GSLEPYAPGK---CIGGDYFG------NYEKVL
+Butyrivibrio_proteoclasticus   NFITKKEAQKLGWPG--GSLEEYAPGM---CIGGDYFG------NYEGLL
+Acidovorax_citrulli            CRFGKFGQSKTRRIN--KIIEKNKSNK----GNAKVFE------NSDGVL
+Microscilla_marina             SLASIKTNSIRRKVY----AHGGINSN---TNTGQRFGNHGGTDNKGSIV
+Ralstonia_eutropha             YEGTVDLQPTPDRIS----SGVKYPS----RNDGTTFN------NNEGLL
+Pirellula_staleyi              FRGDVDLSETLERID----RGEELPQY---RNDGIVFQ------NRERRL
+Nocardioidaceae_bacterium      SDLPPEGVETLELID----AGGPFPYP---GKDGSTFG------NREGIL
+Methylomonas_methanica         DCLPPEARQTIALII----ANGPFPYP---GKDGSNFG------NNFGDL
+Burkholderia_xenovorans        AQLPAEAAETLRLIK----AGGPFPFS----EDGVLFR------NSAALL
+Burkholderia_sp-               AQLPGEAAETLRLIK----AGGPFPFG----EDGVLFR------NSAALL
+Burkholderia_phytofirmans      TQLPAEATETLRLIK----AGGPFPFS----EDGVVFR------NSAALL
+Burkholderia_phymatum          AQLPAEAAETLRLIK----AGGPYPYS----EDGVLFR------NSAQLL
+Burkholderia_cenocepacia       ASLPREAVTTLGLIG----AGGPYPYE----KDGVVFG------NRERIL
+Burkholderia_ambifaria         ARLPREGVTTLGLIG----AGGPYPYE----KDGVVFG------NRERIL
+Burkholderia_multivorans       ARLPREAVTTLGLIA----AGGPYPYD----KDGIVFG------NRERIL
+Burkholderia_ubonensis         ARLPREAVTTLGLIA----GGGPYPYE----KDGVVFG------NRERIL
+Burkholderia_dolosa            SRLPREAVTTLGLIS----AGGPYPYE----KDGVVFG------NRERIL
+Burkholderia_vietnamiensis     ARLPREAVTTLGLIA----DGGPYPYE----KDGVVFG------NRERIL
+Burkholderia_mallei            SRLPREAATTLSLIA----AGGPYPYG----KDGAVFG------NYERIL
+Burkholderia_pseudomallei      SRLPREAATTLSLIA----AGGPYPYG----KDGAVFG------NYERIL
+Burkholderia_thailandensis     SRLPREAAATLRLIA----VGGPYPYE----KDGAVFG------NYERIL
+Burkholderia_gladioli          SSLPREAVTTLGLIA----SGGPYPYS----KDGVVFG------NFERIL
+Burkholderia_glumae            SRLPSEAVTTLGLIA----AGGPYPYP----KDGAVFG------NFERIL
+Burkholderia_graminis          AQLPRQAVDTLNLIA----AGGPYPYE----KDGVVFG------NRERLL
+Rubrivivax_benzoatilyticus     NELPAQAQKTYRLIH----AGGPFPY----QKDGTVFF------NRERLL
+Methylibium_petroleiphilum     SSLPVEAQTAQRLIH----AGGPFPY----SKDGIVFG------NRERLL
+Variovorax_paradoxus           TDLPVQGQRTYQAIL----NGGPFRY----EKDGTVFG------NRERLL
+Thiomonas_intermedia           ADLPVQARDMLKRIE----QGGPFEG----YKDGVIFG------NYERLL
+Leptothrix_cholodnii           AELPVEGRLTYQRIH----RGGPFPFP---AKDGVIFG------NRERLL
+Ramlibacter_tataouinensis      AELPRQGRDTYELIR----QGGPFPY----DKDGTVFG------NRERLL
+Alicycliphilus_denitrificans   ADLPPQGRATYALIR----EGGPFPY----DKDGSVFG------NRERLL
+Acidovorax_sp-                 AELPPQGRATYALIH----EGGPFPY----DKDGSVFG------NRERLL
+Acidovorax_avenae              AELPPQGRATFSLIR----EGGPFPH----DKDGSVFG------NRERLL
+Acidovorax_radicis             AELPPQGRATYALIR----EGGPFPY----DKDGTVFG------NRERLL
+Verminephrobacter_eiseniae     AELPPQGRETYAQIR----TGGPFAH----AKDGTVFG------NRERLL
+Acidovorax_delafieldii         AELPPQGRTTYALIL----SGGPFAH----DKDGSVFG------NRERIL
+Polaromonas_sp-                TQLPPQGRDMMRLIY----QGGPFRY----DKDGAVFG------NRERIL
+Delftia_sp-                    SELPREGRSTYTLIL----RGGPFAH----DKDGTVFG------NRERIL
+Delftia_acidovorans            SELPREGRSTYTLIL----RGGPFAH----DKDGTVFG------NRERIL
+Comamonas_testosteroni         AELPREGRTTYGRIL----QGGPFSS----DKDGTVFG------NRERIL
+Lautropia_mirabilis            GDLPAEARQTLALIR----EGGPYPYE----KDGTVFG------NYERKL
+Herbaspirillum_seropedicae     DQLPREAQQTMALIR----AGGPFPYE----KDGAVFG------NYEGVL
+Collimonas_fungivorans         GQLPQEAQATLVLIK----QGGPFPYA----KDGVVFG------NYEGML
+Janthinobacterium_sp-          NDLPREAQQTIAMIR----QGGPFPYD----KDGSVFG------NYEKVL
+Herminiimonas_arsenicoxydans   TDLPPEARQTIALIR----QGGPFPYE----KDGSVFG------NYEKIL
+Cupriavidus_necator            QQLPNDARQTLERIE----AGGPFLYD----KDGSRFG------NYERIL
+Cupriavidus_taiwanensis        QQLPNEARQTLERIE----AGGPFPYD----KDGSRFG------NYERIL
+Cupriavidus_metallidurans      QQLPNEARQTLERIE----AGGPFPYD----KDGSRFG------NYERSL
+Ralstonia_solanacearum         VDLPNEAQRTLVQIE----QGGPFPYA----KDGTTFG------NYEGRL
+Ralstonia_sp-                  ADLPNEAQRTLALIE----QGGPFPYA----KDGITFG------NYERRL
+Ralstonia_pickettii            ADLPNEAQRTLALIE----QGGPFPYA----KDGITFG------NYERRL
+Candidatus_Accumulibacter      ADLPPEAQQTLRLIQ----AGGPFPYP---RKDGSTFG------NFERRL
+Mycobacterium_abscessus        SELPAEASGTVDLIH----AGGPFPYP---RNDGVVFQ------NRERVL
+Burkholderia_rhizoxinica       AGLPGEVQFTFQSIQ----AGGPFPYP----KDGEVFG------HVERHL
+Microlunatus_phosphovorus      TELPRQAQQTVTLID----AGGPFPYA----KDGSTFN------NFEGLL
+Dermacoccus_sp-                AQLPAQARATLELID----AGGPFPYS---R-DGIVFA------NREGRL
+
+           101                                            150
+Query_id                       PTQS---YGYYHEYTVIT-------PGARTRGTRRIITGEA---TQED--
+Streptomyces_sp-               PKQG---RGYYHEFTVRT-------PGERDRGARRIVTGA-----GGE--
+Kribbella_flavida              PQKQ---RGYYREYTVRT-------PGEKDRGARRIVTGK-----GGE--
+Deinococcus_maricopensis       PARP---RGTYREYTVRT-------PGERDRGARRLVCAPR--------L
+Deinococcus_deserti            PQAE---RGYYREYTVRT-------PGESDRGARRLVCGRQ---SETTVA
+Streptomyces_pristinaespiralis PSHS---TGYYHEYTVVT-------PGSPTRGARRIVTGDS---HQED--
+Streptomyces_viridochromogenes PSQS---SGYYHEYTVIT-------PGSDTRGARRIVTGQK---NQED--
+Streptomyces_griseus           PGQS---TGYYHEYTVIT-------PGSDTRGARRIVTGEQ---VEED--
+Streptomyces_cf-               PGQS---TGYYHEYTVIT-------PGSDTRGARRIVTGEQ---VEED--
+Streptomyces_zinciresistens    PSRS---AGYYREYTVIT-------PGSATRGARRIVTGQE---QQED--
+Actinosynnema_mirum            PQHK---GEYYREYTVPT-------PGSRDRGARRLVTGQ-----EDE--
+Amycolatopsis_mediterranei     PGKK---SGYYHEYTVKT-------PGSADRGARRLITGQ-----AHE--
+Saccharopolyspora_spinosa      PDKT---SGYYHEYTVPT-------PGSKDRGARRLVTGG-----QSE--
+Saccharopolyspora_erythraea    PERP---SGYYHEYTVPT-------PGSPDRGARRLITGE-----GSE--
+Burkholderia_oklahomensis      LDTG---SGPYSEWTVRT-------PGVGNRGERRIVVDK-------STG
+Pectobacterium_wasabiae        LDTG---SGPYREWTVKT-------PDVGTNGARRIVVDS-------KTG
+Pectobacterium_carotovorum     PGGSGA-NSPYSEYRVDPG------PGVSGAGARRVVVN-------NNTG
+Clostridium_botulinum          PSGS------YREYRVAPP------LGITNAGPRRIVKN-------IDTG
+Methanobrevibacter_ruminantium PIG-----HEYKECDIDT-------LGADSRGPKRIVFS-------TDDY
+Methanosphaera_stadtmanae      PTST----SKYIECDIDA-------NGT-TRGSKRIVYS-------TENY
+Eubacterium_yurii              PYKQ---GRQYYECDIDY-------DGG-HRGAKRIVYS-------SDG-
+Eubacterium_hallii             PVVS---GRTYHECDIDT-------LNAKSRGAKRIIYS-------DDG-
+Butyrivibrio_proteoclasticus   PAQK---GRKYYECDIDT-------LGKSKRGAKRIIYS-------NDG-
+Acidovorax_citrulli            PRRRDGKSITYTEHDYNTPPTPAQRANGADRGKRRVVIG--------SDN
+Microscilla_marina             MLLP--DGVNYTEYDIVP-------YTGPDRGTKRVVSGG---------G
+Ralstonia_eutropha             PQQP---AGYYTEYVVPT-------PNVKGVGPQRIVTG--------KNG
+Pirellula_staleyi              PSKR---RGHYREWVHPT-------PRLGGPGPQRIVSG--------EDG
+Nocardioidaceae_bacterium      PEEP---SGYYAEYTVPT-------PGSDDRGARRIVTG--------EGG
+Methylomonas_methanica         P------SGQYYEYTVPT-------PGVTNRGKRRIVARR-------TTA
+Burkholderia_xenovorans        PQHP---RGYYHAYTVRT-------PGSADRGQRRIVCG----GPRRQTG
+Burkholderia_sp-               PQHP---RGYYHAYTVRT-------PGSADRGQRRIVCG----GPRRQTG
+Burkholderia_phytofirmans      QQHP---RGYYHTYTVRT-------PGSTDRGQRRIICG----GPRRQTG
+Burkholderia_phymatum          PQHP---RGYYHAYTVRT-------PGSADRGQRRIVCG----GPRKQVG
+Burkholderia_cenocepacia       PKAK---RGYYHEYTVPT-------PRARNRGARRIVCG----GPLRRID
+Burkholderia_ambifaria         PKAK---RGYYHEYTVPT-------PRARNRGARRIVCG----GPLRRID
+Burkholderia_multivorans       PKAK---RGYYHEYTVPT-------PRARNRGARRIVCG----GPLRRID
+Burkholderia_ubonensis         PKAK---RGFYHEYTVPT-------PRARNRGARRIVCG----GPLRRVD
+Burkholderia_dolosa            PKAK---RGYYREYTVPT-------PRARNRGARRIVCG----GPLRRID
+Burkholderia_vietnamiensis     PKAK---RGYYHEYTVPT-------PRARNRGARRIVCG----GPLRRTD
+Burkholderia_mallei            PKMR---RGYYHEYTVPT-------PRARNRGARRIVCG----GPLRRVD
+Burkholderia_pseudomallei      PKMR---RGYYHEYTVPT-------PRARNRGARRIVCG----GPLRRVD
+Burkholderia_thailandensis     PKMR---RGYYHEYTVPT-------PRARNRGARRIVCG----GPLRRVD
+Burkholderia_gladioli          PKMR---RGYYHEYTVPT-------PRARNRGAKRIVCG----GPLRRID
+Burkholderia_glumae            PKMR---RGYYHEYTVPT-------PRARNRGAKRIVCG----GPLRRVD
+Burkholderia_graminis          PPNR---RGYYHEYTVPT-------PRSRNRGARRIVCG----GPLKRTD
+Rubrivivax_benzoatilyticus     PAKA---RGYYREYTVPT-------PGARNRGARRIVCGGQ---QPTAPD
+Methylibium_petroleiphilum     PRHP---RGYYREYTVQT-------PGSRDRGARRIVCGGQ---QATAPE
+Variovorax_paradoxus           PSAR---RGHYREYTVTT-------PGSRNRGAQRIVCGGE---QRTTPE
+Thiomonas_intermedia           PSKR---RGYYREYTVPT-------PGARNRGARRIVCGG----AKHHPD
+Leptothrix_cholodnii           PRET---RGYYREYTVPT-------PQLNHRGARRIVCGGN---QPKSPD
+Ramlibacter_tataouinensis      PLNK---RGYYREYTVKT-------PGARNRGARRIVCGG----PVRAPS
+Alicycliphilus_denitrificans   PAKK---RGYYREYTVRT-------PGVRSRGARRIVCGG----APRTPD
+Acidovorax_sp-                 PLKK---RGYYREYTVRT-------PGVRHRGARRIVCGG----APRTPD
+Acidovorax_avenae              PPHK---RGYYREYTVRT-------PGASNRGARRIVCGG----PPRTPD
+Acidovorax_radicis             PAHQ---RGYYREYTVRT-------PGSRNRGARRIVCGG----KPRVPD
+Verminephrobacter_eiseniae     PANQ---RGYYREYTVRT-------PGLRDRGARRIVCGGS---RPRIPD
+Acidovorax_delafieldii         PAHP---RGYYREYTVRT-------PGARDRGARRIVCGG----KPRLPD
+Polaromonas_sp-                PASH---RGYYREYTVRT-------PGERSRGARRIVCGGL---KPAAPD
+Delftia_sp-                    PRQS---RGYYREYTVRT-------PGSRDRGARRIVCGG----EPQQPD
+Delftia_acidovorans            PRQS---RGYYREYTVRT-------PGSRDRGARRIVCGG----EPQQPD
+Comamonas_testosteroni         PRQA---RGYYREYTVRT-------PGAKNRGARRIVCGGL---QPQVPD
+Lautropia_mirabilis            PRQR---RGYYTEYTVKT-------PRVRSRGARRIIAG----GRDGRPT
+Herbaspirillum_seropedicae     PRQK---RGYYREYTVKT-------PRARNRGARRIVSG----GEPKTSG
+Collimonas_fungivorans         PRQR---RGYYHEFTVKT-------PRARNRGARRIIAG----GNPQTSG
+Janthinobacterium_sp-          PQQK---RGYYREYTVKT-------PRARNRGARRIITG----GEKSKPR
+Herminiimonas_arsenicoxydans   PQQR---RGYYREYTVKT-------PRTRNRGARRIITG----GEKNRPH
+Cupriavidus_necator            PQRE---RGYYREYTVKS-------ARSRNRGAKRIVCG----GEQRAAN
+Cupriavidus_taiwanensis        PQRE---RGYYREYTVKS-------ARSRNRGAKRIVCG----GEQRAAN
+Cupriavidus_metallidurans      PQQS---RGYYREYTVKN-------SNSRNRGAKRIVCG----GDQRAAN
+Ralstonia_solanacearum         PARK---RGYYREYTVKT-------RGARNRGARRIICG----GDQRAAN
+Ralstonia_sp-                  PAQR---RGYYHEYTVKT-------RGARNRGARRIICG----GGQQAAN
+Ralstonia_pickettii            PAQR---RGYYHEYTVKT-------RGARNRGARRIICG----GDQQAAN
+Candidatus_Accumulibacter      PLQA---RGYYREYTVRT-------PGSRDRGPRRIVAGQGRDGNVATSG
+Mycobacterium_abscessus        PSEP---RGYYHEYTVRT-------PGAKTRGTRRIITGGN---PLNDPP
+Burkholderia_rhizoxinica       PVRP---RDYSHEYTVKT-------PRASSR---------------RTKN
+Microlunatus_phosphovorus      PKQP---KGYYREYTVSA-------PGKRDRGPRRIVTG-------DHDR
+Dermacoccus_sp-                PKHP---RGWYHEYTVET-------PGESDRGARRLIQGK-----DGT--
+
+                               151                     177
+Query_id                       --YYTGDHYA-----TFSLIDQTC---
+Streptomyces_sp-               -FYYTDDHYN-----TFKAVLR-----
+Kribbella_flavida              -RYYTEDHYE-----SFRRVAADE---
+Deinococcus_maricopensis       ECYYTADHYA-----SFARVEP-----
+Deinococcus_deserti            ECYYTADHYA-----SFRRVRP-----
+Streptomyces_pristinaespiralis --YYTADHYE-----SFDLVDHG----
+Streptomyces_viridochromogenes --YYTADHYE-----SFDLVDHG----
+Streptomyces_griseus           --YYTADHYA-----SFDRVDHD----
+Streptomyces_cf-               --YYTADHYA-----SFDRVDHD----
+Streptomyces_zinciresistens    --YYTADHYA-----TFDLIDYG----
+Actinosynnema_mirum            -VYYTADHYE-----SFVVVDVAR---
+Amycolatopsis_mediterranei     -LYYTGDHYA-----SFVVVDPAR---
+Saccharopolyspora_spinosa      -LYYTSDHYD-----SFVVVDPAG---
+Saccharopolyspora_erythraea    -IYYTGDHYE-----SFVVVDPDG---
+Burkholderia_oklahomensis      RAYYSHDHYQ-----SFIEIDLG----
+Pectobacterium_wasabiae        RAYYSHDHYD-----SFVEIDLGG---
+Pectobacterium_carotovorum     ETYYTWTHYGDSGNPSFVRIR------
+Clostridium_botulinum          EVYYTWTHYGDAGEPAFVRIR------
+Methanobrevibacter_ruminantium EVYYTGDHYA-----SFEHLT------
+Methanosphaera_stadtmanae      KVYYTTDHYK-----TFNEI-------
+Eubacterium_yurii              LVYYTEDHYA-----TFTLLYGQEN--
+Eubacterium_hallii             QIYYTDNHYK-----SFTLLYGDD---
+Butyrivibrio_proteoclasticus   LIYYTDDHYE-----SFELLYGEP---
+Acidovorax_citrulli            RVYYTNDHYR-----SFERFK------
+Microscilla_marina             NNYYTTDHYG-----TFRKF-------
+Ralstonia_eutropha             EVFYTPDHYK-----TFTPVKR-----
+Pirellula_staleyi              ERYYTADHYE-----TFQRLDRAD---
+Nocardioidaceae_bacterium      EFYYTEDHYE-----SFARIDRG----
+Methylomonas_methanica         QLFFTACHYE-----RVA-VQGGTKDQ
+Burkholderia_xenovorans        NCYYTDDYYA-----SFKRIAE-----
+Burkholderia_sp-               NCYYTDDYYA-----SFKRIAE-----
+Burkholderia_phytofirmans      DCYYTDDYYV-----SFKRIAE-----
+Burkholderia_phymatum          DCYYTDDYYV-----SFKRIAD-----
+Burkholderia_cenocepacia       NCYYTGDHYN-----SFKRIVE-----
+Burkholderia_ambifaria         NCYYTDDHYN-----SFKRIVE-----
+Burkholderia_multivorans       NCYYTDDHYN-----SFKRIVE-----
+Burkholderia_ubonensis         NCYYTDDHYN-----SFKRIVE-----
+Burkholderia_dolosa            NCYYTDDHYN-----SFKRIVE-----
+Burkholderia_vietnamiensis     NCYYTDDHYN-----SFKRIVE-----
+Burkholderia_mallei            NCYYTGDHYN-----SFKRIVD-----
+Burkholderia_pseudomallei      NCYYTSDHYN-----SFKRIVD-----
+Burkholderia_thailandensis     NCYYTDDHYN-----SFKRIVD-----
+Burkholderia_gladioli          NCYYSDDHYA-----SFKRIVE-----
+Burkholderia_glumae            NCYYTDDHYA-----SFKRIVE-----
+Burkholderia_graminis          NCYYSDDHYT-----SFNRIVE-----
+Rubrivivax_benzoatilyticus     TCFYTADHYA-----SFSRIAET----
+Methylibium_petroleiphilum     ACYYTDDHYA-----SFRLIAQ-----
+Variovorax_paradoxus           ACWYTADHYA-----SFRRIAP-----
+Thiomonas_intermedia           VCYYTHDHYA-----SFRRIAQ-----
+Leptothrix_cholodnii           VCYYTQDHYA-----SFRRIAN-----
+Ramlibacter_tataouinensis      ACYYTADHYA-----SFRKIVE-----
+Alicycliphilus_denitrificans   ACYYTSDHYS-----SFREITQ-----
+Acidovorax_sp-                 ACYFTSDHYA-----SFREIRE-----
+Acidovorax_avenae              ACYYTSDHYA-----SFRKIVE-----
+Acidovorax_radicis             ACYYTSDHYA-----SFREIVE-----
+Verminephrobacter_eiseniae     ACYYTSDHYA-----SFREIVE-----
+Acidovorax_delafieldii         ACYYTGDHYA-----SFRKIVD-----
+Polaromonas_sp-                ACYYTDDHYA-----SFRKIAP-----
+Delftia_sp-                    ACYYTSDHYS-----SFRKIIE-----
+Delftia_acidovorans            ACYYTSDHYS-----SFRKIIE-----
+Comamonas_testosteroni         ACFYTGDHYN-----SFQQIVQ-----
+Lautropia_mirabilis            EFYYTDDHYQ-----TFRRIEFP----
+Herbaspirillum_seropedicae     EYYYTSDHYK-----TFRRIRD-----
+Collimonas_fungivorans         EYYYTDDHYQ-----TFRRIQE-----
+Janthinobacterium_sp-          EYYYTADHYR-----SFKRVME-----
+Herminiimonas_arsenicoxydans   EYYYTADHYR-----SFKRVIE-----
+Cupriavidus_necator            DCYYTEDHYN-----SFKRILK-----
+Cupriavidus_taiwanensis        DCYYTEDHYN-----SFKRILK-----
+Cupriavidus_metallidurans      DCYYTEDHYN-----SFKRITK-----
+Ralstonia_solanacearum         DCYYTEDHYN-----SFQRIQR-----
+Ralstonia_sp-                  DCYYTEDHYN-----SFQRIQR-----
+Ralstonia_pickettii            DCYYTEDHYN-----SFQRIQR-----
+Candidatus_Accumulibacter      EYYYTDDHYR-----SFWRIRGN----
+Mycobacterium_abscessus        HVYYTGDHYQ-----SFCEVEGT----
+Burkholderia_rhizoxinica       RLRKSAALYR-----------------
+Microlunatus_phosphovorus      ELFYTEDHYA-----SFVRVKR-----
+Dermacoccus_sp-                -IYYSGDHYK-----SFRRVQR-----
+

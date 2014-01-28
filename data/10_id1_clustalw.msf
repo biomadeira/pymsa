@@ -1,0 +1,989 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+  10_id1_clustalw-msf2 MSF:  514 Type: P 26/01/12 CompCheck: 9677 --
+
+  Name: Query_id                       Len: 514  Check: 8948 Weight: 1-00
+  Name: Nostoc_sp-                     Len: 514  Check: 8925 Weight: 1-00
+  Name: Anabaena_variabilis            Len: 514  Check: 8969 Weight: 1-00
+  Name: 'Nostoc_azollae'               Len: 514  Check: 7213 Weight: 1-00
+  Name: Nostoc_punctiforme             Len: 514  Check:  439 Weight: 1-00
+  Name: Nodularia_spumigena            Len: 514  Check: 9238 Weight: 1-00
+  Name: Fischerella_sp-                Len: 514  Check: 1507 Weight: 1-00
+  Name: Raphidiopsis_brookii           Len: 514  Check: 2234 Weight: 1-00
+  Name: Cylindrospermopsis_raciborskii Len: 514  Check: 2882 Weight: 1-00
+  Name: Synechococcus_elongatus        Len: 514  Check: 1483 Weight: 1-00
+  Name: Synechococcus_sp-              Len: 514  Check: 7302 Weight: 1-00
+  Name: Sorghum_bicolor                Len: 514  Check: 1623 Weight: 1-00
+  Name: Oryza_sativa                   Len: 514  Check:  114 Weight: 1-00
+  Name: Zea_mays                       Len: 514  Check: 7984 Weight: 1-00
+  Name: Vitis_vinifera                 Len: 514  Check:  445 Weight: 1-00
+  Name: Ricinus_communis               Len: 514  Check: 5443 Weight: 1-00
+  Name: Populus_trichocarpa            Len: 514  Check: 6230 Weight: 1-00
+  Name: Arabidopsis_thaliana           Len: 514  Check: 1790 Weight: 1-00
+  Name: Arabidopsis_lyrata             Len: 514  Check: 7905 Weight: 1-00
+  Name: Physcomitrella_patens          Len: 514  Check: 8078 Weight: 1-00
+  Name: Micromonas_pusilla             Len: 514  Check:  485 Weight: 1-00
+  Name: Micromonas_sp-                 Len: 514  Check: 7657 Weight: 1-00
+  Name: Ostreococcus_lucimarinus       Len: 514  Check: 9028 Weight: 1-00
+  Name: Ostreococcus_tauri             Len: 514  Check:  324 Weight: 1-00
+  Name: Volvox_carteri                 Len: 514  Check: 9692 Weight: 1-00
+  Name: Chlamydomonas_reinhardtii      Len: 514  Check: 8146 Weight: 1-00
+  Name: Selaginella_moellendorffii     Len: 514  Check: 4316 Weight: 1-00
+  Name: Phaeodactylum_tricornutum      Len: 514  Check:  967 Weight: 1-00
+  Name: Thalassiosira_pseudonana       Len: 514  Check: 1181 Weight: 1-00
+  Name: Toxoplasma_gondii              Len: 514  Check: 2081 Weight: 1-00
+  Name: Rhodobacteraceae_bacterium     Len: 514  Check: 4502 Weight: 1-00
+  Name: Roseobacter_sp-                Len: 514  Check: 9198 Weight: 1-00
+  Name: Sagittula_stellata             Len: 514  Check:  702 Weight: 1-00
+  Name: Ruegeria_pomeroyi              Len: 514  Check: 4284 Weight: 1-00
+  Name: Bordetella_petrii              Len: 514  Check: 3323 Weight: 1-00
+  Name: Aromatoleum_aromaticum         Len: 514  Check: 5594 Weight: 1-00
+  Name: Plasmodium_falciparum          Len: 514  Check: 9400 Weight: 1-00
+  Name: Plasmodium_berghei             Len: 514  Check: 1228 Weight: 1-00
+  Name: Plasmodium_yoelii              Len: 514  Check: 5415 Weight: 1-00
+  Name: Plasmodium_chabaudi            Len: 514  Check: 2928 Weight: 1-00
+  Name: Plasmodium_knowlesi            Len: 514  Check: 5494 Weight: 1-00
+  Name: Plasmodium_vivax               Len: 514  Check: 3525 Weight: 1-00
+  Name: Theileria_parva                Len: 514  Check: 2000 Weight: 1-00
+  Name: Bradyrhizobium_sp-             Len: 514  Check: 2918 Weight: 1-00
+  Name: Bradyrhizobium_japonicum       Len: 514  Check: 5218 Weight: 1-00
+  Name: Bradyrhizobiaceae_bacterium    Len: 514  Check: 6597 Weight: 1-00
+  Name: Rhodopseudomonas_palustris     Len: 514  Check: 9287 Weight: 1-00
+  Name: Xanthobacter_autotrophicus     Len: 514  Check: 4653 Weight: 1-00
+  Name: Methylobacterium_populi        Len: 514  Check: 6226 Weight: 1-00
+  Name: Pusillimonas_sp-               Len: 514  Check: 5292 Weight: 1-00
+  Name: gamma_proteobacterium          Len: 514  Check: 5139 Weight: 1-00
+  Name: Pectobacterium_wasabiae        Len: 514  Check:  139 Weight: 1-00
+  Name: Enterobacter_asburiae          Len: 514  Check: 1235 Weight: 1-00
+  Name: Enterobacter_cloacae           Len: 514  Check: 1311 Weight: 1-00
+  Name: Enterobacter_mori              Len: 514  Check:  566 Weight: 1-00
+  Name: Escherichia_coli               Len: 514  Check: 2946 Weight: 1-00
+  Name: Escherichia_fergusonii         Len: 514  Check: 2453 Weight: 1-00
+  Name: Shigella_dysenteriae           Len: 514  Check: 3396 Weight: 1-00
+  Name: Psychromonas_ingrahamii        Len: 514  Check: 2102 Weight: 1-00
+  Name: Pectobacterium_carotovorum     Len: 514  Check: 2394 Weight: 1-00
+  Name: Pseudomonas_putida             Len: 514  Check: 4095 Weight: 1-00
+  Name: Sideroxydans_lithotrophicus    Len: 514  Check: 6315 Weight: 1-00
+  Name: Perkinsus_marinus              Len: 514  Check: 6375 Weight: 1-00
+  Name: Gloeobacter_violaceus          Len: 514  Check: 6968 Weight: 1-00
+  Name: Cyanobium_sp-                  Len: 514  Check: 5679 Weight: 1-00
+  Name: Paulinella_chromatophora       Len: 514  Check: 4438 Weight: 1-00
+  Name: Prochlorococcus_marinus        Len: 514  Check: 7591 Weight: 1-00
+  Name: Cyanothece_sp-                 Len: 514  Check: 2483 Weight: 1-00
+  Name: Microcystis_aeruginosa         Len: 514  Check: 5697 Weight: 1-00
+  Name: cyanobacterium_UCYN-A          Len: 514  Check: 4497 Weight: 1-00
+  Name: Synechocystis_sp-              Len: 514  Check: 9920 Weight: 1-00
+  Name: Lyngbya_majuscula              Len: 514  Check: 7717 Weight: 1-00
+  Name: Acaryochloris_marina           Len: 514  Check: 4931 Weight: 1-00
+  Name: Thermosynechococcus_elongatus  Len: 514  Check: 5621 Weight: 1-00
+  Name: Lyngbya_sp-                    Len: 514  Check: 5883 Weight: 1-00
+  Name: Trichodesmium_erythraeum       Len: 514  Check: 9924 Weight: 1-00
+  Name: Oscillatoria_sp-               Len: 514  Check: 9360 Weight: 1-00
+  Name: Microcoleus_vaginatus          Len: 514  Check: 8663 Weight: 1-00
+  Name: Arthrospira_maxima             Len: 514  Check: 5733 Weight: 1-00
+  Name: Arthrospira_platensis          Len: 514  Check: 5693 Weight: 1-00
+
+//
+
+           1                                               50
+Query_id                       ----------------------------------------TQAKAK----
+Nostoc_sp-                     ----------------------------------------TQAKAK----
+Anabaena_variabilis            ----------------------------------------TQAKAK----
+'Nostoc_azollae'               ----------------------------------------TQGKAK----
+Nostoc_punctiforme             ----------------------------------------TQAKAKKD--
+Nodularia_spumigena            ----------------------------------------TQAKAKK---
+Fischerella_sp-                ----------------------------------------TQAKAKKDA-
+Raphidiopsis_brookii           ----------------------------------------TQAKTK----
+Cylindrospermopsis_raciborskii ----------------------------------------TQAKTK----
+Synechococcus_elongatus        -----------------------------------------APAAKKHS-
+Synechococcus_sp-              ----------------------------------------MVASAEK---
+Sorghum_bicolor                --------------SSVRPRHVNKVLCMSVQQASKSKVSVAPLDLESA--
+Oryza_sativa                   --------------KATRPRHANKVLCMSVQQASESKVAVKPLDLESA--
+Zea_mays                       ------------------------------QQASRSKVAVVPIELEKA--
+Vitis_vinifera                 ------------------------------QQASIPKVAVSPLELEDA--
+Ricinus_communis               ------------------------------QQASRSKVAVSPLELEDA--
+Populus_trichocarpa            ------------------------------QQASRSKVAVSPLGLEDA--
+Arabidopsis_thaliana           ---------------------------------SSSKVTVSPIELEDP--
+Arabidopsis_lyrata             ----------------------------SLQQASRSKVAVTPLELEYP--
+Physcomitrella_patens          --------------------------------------------------
+Micromonas_pusilla             -------------------------------SIAKGGRAPVPLELEKASQ
+Micromonas_sp-                 ----------------------------TKEKSMKAGRAPVPLELED---
+Ostreococcus_lucimarinus       RQTKARRATAVVRAEGTDYGLGLQCSPTANKNIDPKGRAKVPLELED---
+Ostreococcus_tauri             RAQKARRANVAVKAQGTDYGLGLQMSTTADKNIDPNGRAKVPLEMEK---
+Volvox_carteri                 ----------------------------------------VPTALEE---
+Chlamydomonas_reinhardtii      ----------------------------------------VPTKLEE---
+Selaginella_moellendorffii     -----------------------------------------PRSLELL--
+Phaeodactylum_tricornutum      --------------------------------------------------
+Thalassiosira_pseudonana       --------------------------------------------------
+Toxoplasma_gondii              ----------------------------------------VDAKADEL--
+Rhodobacteraceae_bacterium     ----------------------------------------PKAPASAS--
+Roseobacter_sp-                ----------------------------------------AKAPATAS--
+Sagittula_stellata             ----------------------------------------AKAPASAA--
+Ruegeria_pomeroyi              ----------------------------------------SRAPATAS--
+Bordetella_petrii              -------------------TEAAMPAAGAPDAPAVQLPGASIPPWSAA--
+Aromatoleum_aromaticum         ----------------------------------------ALAPWSAS--
+Plasmodium_falciparum          ---------------------------------------KLKNNKEE---
+Plasmodium_berghei             ---------------------------------------RRYSQKEA---
+Plasmodium_yoelii              ---------------------------------------RRYSQKEA---
+Plasmodium_chabaudi            ---------------------------------------RRNSHKET---
+Plasmodium_knowlesi            ---------------------------------------RQYNHAEN---
+Plasmodium_vivax               ---------------------------------------RHFTNAEG---
+Theileria_parva                ----------------------------------------MFSIFKWV--
+Bradyrhizobium_sp-             SDAIANRSEARLNLCVPGGKETARMVKALYEELDKATAAAKPAAVAAMPA
+Bradyrhizobium_japonicum       SEAIATRSEARLNLCVPGGKETARMLKSLYEELDKAPAAKAPEKADAVAA
+Bradyrhizobiaceae_bacterium    SEVIANKSEARLNLCVPGGKETARMLKSLYEELEKAPAAGSAPVTAATVG
+Rhodopseudomonas_palustris     -------------------------------AADAAPVAALPPR------
+Xanthobacter_autotrophicus     AKALADGAESKLNLCAPGGKETLRMLKQLAEETS-APAAKPAATPAAAVS
+Methylobacterium_populi        -----------------GG-----------AAAPKADAAVASEKKEPELG
+Pusillimonas_sp-               -----------------------ARKALKQPDTPIASVTALHPKAS----
+gamma_proteobacterium          ---------------------------------QNANVIPLHPSAS----
+Pectobacterium_wasabiae        ---------------------------------IAAQGALDEITSS----
+Enterobacter_asburiae          ---------------------------------FSATGAVNDIHTS----
+Enterobacter_cloacae           ---------------------------------ITATGVVNDIHTS----
+Enterobacter_mori              ---------------------------------FTATGAVNDIHTS----
+Escherichia_coli               ---------------------------------SVATGAVNEIHTS----
+Escherichia_fergusonii         ---------------------------------SVATGAVNEIHTS----
+Shigella_dysenteriae           ---------------------------------SVATGAVNEIHTS----
+Psychromonas_ingrahamii        ---------------------------------PSKATLETPLSVN----
+Pectobacterium_carotovorum     ---------------------------TVADEGDADAPVLTAASAP----
+Pseudomonas_putida             ---------------------------------AAPPPASEAAPVS----
+Sideroxydans_lithotrophicus    --------------------------------------------------
+Perkinsus_marinus              ----------------------------------VSRKARRKPKIISSR-
+Gloeobacter_violaceus          ----------------------------------------AHAATRT---
+Cyanobium_sp-                  ----------------------------------------KPAAVS----
+Paulinella_chromatophora       ----------------------------------------SPAKPA----
+Prochlorococcus_marinus        ----------------------------------------TPAKAATPAK
+Cyanothece_sp-                 --------------------------------------TQAQVKAKD---
+Microcystis_aeruginosa         ----------------------------------------TQAKEKT---
+cyanobacterium_UCYN-A          ------------------------------------------MSAKT---
+Synechocystis_sp-              ---------------------------------------TPKEKKAD---
+Lyngbya_majuscula              -----------------------------------------PKKAKD---
+Acaryochloris_marina           ----------------------------------------MQLKEK----
+Thermosynechococcus_elongatus  ----------------------------------------APVKEKKV--
+Lyngbya_sp-                    ----------------------------------------TQAKAHT---
+Trichodesmium_erythraeum       ----------------------------------------TEAKPRRSE-
+Oscillatoria_sp-               ----------------------------------------TQAKEKV---
+Microcoleus_vaginatus          ----------------------------------------TQAKEKV---
+Arthrospira_maxima             ----------------------------------------TQAKAKT---
+Arthrospira_platensis          ----------------------------------------TQAKAKT---
+
+           51                                             100
+Query_id                       ---------HADVPVNLYRPNAPFIGKVISNEPLVKEGG-IGIVQ-----
+Nostoc_sp-                     ---------HADVPVNLYRPNAPFIGKVISNEPLVKEGG-IGIVQ-----
+Anabaena_variabilis            ---------HADVPVNLYRPNAPFIGKVISNEPLVKEGG-IGIVQ-----
+'Nostoc_azollae'               ---------HADVPVNTYRPNAPFIGKCISNEPLVKEGG-IGIVQ-----
+Nostoc_punctiforme             ---------HGDVPVNTYRPNAPFIGKVISNEPLVKEGG-IGIVQ-----
+Nodularia_spumigena            ---------GADVPVNIYRPNAPFVGKCISNEPLVKEDG-IGIVQ-----
+Fischerella_sp-                ---------HADVPVNIYRPNAPYIGKCISNEPLVGENG-IGIVQ-----
+Raphidiopsis_brookii           ---------HADVPVNTYRPNAPFIGKCISNETLVRQGG-IGKVQ-----
+Cylindrospermopsis_raciborskii ---------HADVPVNTYRPNAPFIGKCISNETLVKEGG-IGKVQ-----
+Synechococcus_elongatus        ---------AEDVPVNIYRPNKPFVGKVLSNEPLVQEGG-IGVVQ-----
+Synechococcus_sp-              ----------REVVVNLYRPNAPLIGHCVETYSIVGEGA-PGLTK-----
+Sorghum_bicolor                ----------KEPPLNTYKPKEPFTATIVSVERLVGPKA-PGETC-----
+Oryza_sativa                   ----------NEPPLNTYKPKEPYTATIVSVERIVGPKA-PGETC-----
+Zea_mays                       ----------KEPPLHLYKPKEPYTATIVSVERLVGPRA-PGETC-----
+Vitis_vinifera                 ----------KGPPLNLYKPKEPYTATIVSVERIVGPKA-PGETC-----
+Ricinus_communis               ----------KEPPLNLYKPKEPYTATIASVERLVGPKA-PGETC-----
+Populus_trichocarpa            ----------KEPPLNTYKPKEPYTATIVSVERIVGPNA-PGETC-----
+Arabidopsis_thaliana           ----------KDPPLNLYKPKESYTAKIVSVERVVGPKA-PGETC-----
+Arabidopsis_lyrata             ----------KETPLNLYRPKEPYTATIVSVERIVGPQA-PGETC-----
+Physcomitrella_patens          --------------MHLFKNKEPFIGTIKSVERIVGPKA-PGETC-----
+Micromonas_pusilla             GSRPSSRSPAMPLPLNTFKNKAPFTGKIKSVERIVGPNA-TGETC-----
+Micromonas_sp-                 ----------MPLPLNTFKNKAPFVGTIKSVERIVGPNA-TGETC-----
+Ostreococcus_lucimarinus       ----------MPLPLNTFKNKEPFTGKVRSVERIVGPNA-TGETC-----
+Ostreococcus_tauri             ----------MELPLNTYKNKEPFVGTIRSVERIVGPNA-TGETC-----
+Volvox_carteri                 ----------GEMPLNTYSNKAPFKAKIRSVETITGPKA-TGETC-----
+Chlamydomonas_reinhardtii      ----------GEMPLNTYSNKAPFKAKVRSVEKITGPKA-TGETC-----
+Selaginella_moellendorffii     ----------KKAPTNLYTRKSPYVATIESVHRLTTGEN-GGDTY-----
+Phaeodactylum_tricornutum      ------------------KPAAPVPAKVLSRRRLIADDA-PGDVQ-----
+Thalassiosira_pseudonana       -------------PLNFAKPQAPATATVLGRTKLIADDA-PGDIE-----
+Toxoplasma_gondii              -----------RVAVNTFRPASPLICRVVSVTPVTSKDSSPGDSHGEAPQ
+Rhodobacteraceae_bacterium     -----------KPTINLYNLGKPVQAVVQGNYRLTAEDADSDVRH-----
+Roseobacter_sp-                -----------KPAVNMYNLGKPAKMKVQGNYRLT-DDPEHDVRH-----
+Sagittula_stellata             -----------KATVNLYTLGKPATAKVTGIVPLT-KDPGHDVRH-----
+Ruegeria_pomeroyi              -----------KPTINLYTLGKPAEARVTGNYRLTAESSDSDVRH-----
+Bordetella_petrii              -----------HPYVNLYTHKTPALATVVGNYRVTDADTDSDIHH-----
+Aromatoleum_aromaticum         -----------HPYVNLYAPTRPITATVTGNYRLTDADASSDIHH-----
+Plasmodium_falciparum          -----------NNFINLYTVKNPLKCKIVDKINLVRPNSPNEVYH-----
+Plasmodium_berghei             -----------NKYTNLYTIKNPLKCKVVNKIKLVRENAKHIVYN-----
+Plasmodium_yoelii              -----------NKYTNLYTVKNPLKCKVINKIKLVRENAKHMVYN-----
+Plasmodium_chabaudi            -----------NTYTNLYTIKDPLKCKVINKIKLVRENAKHMVYN-----
+Plasmodium_knowlesi            -----------NSYTNIYTIKNPLKCKVVDKVSLVRQNALHEVYN-----
+Plasmodium_vivax               -----------NSYTNVYTIRNPLRCKVVDKVKLVRQNALHEVYN-----
+Theileria_parva                ------------LILRRYTVRNPLRCRINSVRKIGTNNLDRDFYH-----
+Bradyrhizobium_sp-             -------TVSVVVSEPGRSRDNPVEATFLSRRLLNKPGSEKETWH-----
+Bradyrhizobium_japonicum       P------AVTVTIAEPGRSRDNPTEATFLSRRLLNKGKSEKETYH-----
+Bradyrhizobiaceae_bacterium    P------VAAAPAGEPGRSRDNPVKATFLSRRQVNKPGSEKETWH-----
+Rhodopseudomonas_palustris     ----------------GTSRDNPATAKVLSRRRLNKPGSEKETWH-----
+Xanthobacter_autotrophicus     Y------AHEPHAPAPLGTRENPGEVTFLGRTRLNKDGSEKETWH-----
+Methylobacterium_populi        --------------PLGFCRENPVEATFLSRTRLNAPGGEKETWH-----
+Pusillimonas_sp-               ----------------KVTREQPFRAELLLNQAITGQGSDKDIRH-----
+gamma_proteobacterium          ----------------AWNRDKPFSAQVLENQRITARGTDKHIFH-----
+Pectobacterium_wasabiae        ----------------PYSKASPLRATFAVNQKVTGRNSEKDVRH-----
+Enterobacter_asburiae          ----------------PYTKEAPLTASLSVNQKITGRDSEKDVRH-----
+Enterobacter_cloacae           ----------------PYTKEAPLSASLSVNQKITGRDSEKDVRH-----
+Enterobacter_mori              ----------------PYTKEAPLTASLAVNQKITGRDSEKDVRH-----
+Escherichia_coli               ----------------PYSKDAPLVASLSVNQKITGRNSEKDVRH-----
+Escherichia_fergusonii         ----------------PYSKDAPLVASLSVNQKITGRNSEKDVRH-----
+Shigella_dysenteriae           ----------------PYSKDAPLVASLSVNQKITGRNSEKDVRH-----
+Psychromonas_ingrahamii        ----------------KYDKKSPFAASLLTSQKITGARSAKDVRH-----
+Pectobacterium_carotovorum     ----------------IFSRNAPLPARLVINQRLNAPGAEKETRQ-----
+Pseudomonas_putida             ----------------AFSKQQPWMATVLENRLLNGPGASKETRQ-----
+Sideroxydans_lithotrophicus    ---------MPDPDIAEIDDSAIYKAVLLSSERITPESSREEIRQ-----
+Perkinsus_marinus              ---------GRSVEVNKHKLKHPLQAVCLSNTPATREAKPEADVR-----
+Gloeobacter_violaceus          ----------FEVPVNIYRPASPFRGKALQNINLTPDDP-DNDVR-----
+Cyanobium_sp-                  ---------HAAVPVNLYKPKDPFIGTVTENYSLLAEGA-IGRVN-----
+Paulinella_chromatophora       ---------HHDVPVNLYKPKDPFVSTVIDNYSLLSPGA-IGRVN-----
+Prochlorococcus_marinus        AAAVKKP--HADVPVNTYKPKAPFTGTVTENYSALKEGA-IGKVQ-----
+Cyanothece_sp-                 -----------DVPVNIYRPSNPYLGKCVENYSLVREGG-QGIVQ-----
+Microcystis_aeruginosa         -----------DIPVNIYRPNQPFIGKCIENYALVDEGG-IGIVQ-----
+cyanobacterium_UCYN-A          -----------KVPVNIYRPNSPYIGKCLENYSLVSEGG-SGIVQ-----
+Synechocystis_sp-              -----------DIPVNIYRPKTPYIGKVLENYPLVREGA-IGTVQ-----
+Lyngbya_majuscula              -----------DIPVNTYTTQKPFIGKCISNEQLVREGG-IGNCR-----
+Acaryochloris_marina           ------------IPVNIYRPKEPLTSQCLTNEELVQPGG-EGTVR-----
+Thermosynechococcus_elongatus  -----------DIPVNIYRPNNPCIGKVISNEELVREGG-EGTVK-----
+Lyngbya_sp-                    -----------DVPINIYKPKTPFTGKCLSSKELVQEGG-EGTVR-----
+Trichodesmium_erythraeum       ---------KKSVPVNTYRPKNPFIGKCLSTAELVNEGG-EGTVR-----
+Oscillatoria_sp-               -----------DIPVNLYKPASPFIGKCISTEELVREGG-EGTVR-----
+Microcoleus_vaginatus          -----------QVPVNLYKPANPYIGKCISTEELVREGG-EGTVR-----
+Arthrospira_maxima             -----------DIPVNIYKPKNPYIGKCLSNEELVREGG-TGTVR-----
+Arthrospira_platensis          -----------DIPVNIYKPKNPYIGKCLSNEELVREGG-TGTVR-----
+
+           101                                            150
+Query_id                       -HIKFDLTGGN--LKYIEGQSIGIIPPGV---DKN---------------
+Nostoc_sp-                     -HIKFDLTGGN--LKYIEGQSIGIIPPGV---DKN---------------
+Anabaena_variabilis            -HIKFDLTGGN--LKYIEGQSIGIIPPGV---DKN---------------
+'Nostoc_azollae'               -HLKFDLAGSN--LKYIEGQSIGIIPPGV---DKN---------------
+Nostoc_punctiforme             -HLKFDLSGGD--LKYIEGQSIGIIPPGL---DKN---------------
+Nodularia_spumigena            -HLKFDLSGGD--LKYVEGQSIGIIPPGV---DKN---------------
+Fischerella_sp-                -HLKFDISGGN--LRYVEGQSIGIIPPGL---DKN---------------
+Raphidiopsis_brookii           -HVKFDLSGSQ--LKYIEGQSIGIIPPGI---DKN---------------
+Cylindrospermopsis_raciborskii -HLKFDLSGSQ--LKYIEGQSIGIIPPGV---DKN---------------
+Synechococcus_elongatus        -HLTFDISEGD--LRYIEGQSIGIIPDGT---DDK---------------
+Synechococcus_sp-              -HIVLSLPDPN--YRYLEGQSVGIIPPGE---DAK---------------
+Sorghum_bicolor                -HIVIDHGGN---VPYWEGQSYGVIPPGE--NPKKP--------------
+Oryza_sativa                   -HIVIDHGGN---VPYWEGQSYGIIPPGE--NPKKP--------------
+Zea_mays                       -HVVIDHGGN---VPYWEGQSYGVIPPGE--NPKKP--------------
+Vitis_vinifera                 -HIVIDHGGI---VPYWEGQSYGVIPPGE--NPKKP--------------
+Ricinus_communis               -HIVIDHGGN---VPYWEGQSYGVIPPGE--NPKKP--------------
+Populus_trichocarpa            -HVVIDHGGN---VPYWEGQSYGVIPPGE--NPKKP--------------
+Arabidopsis_thaliana           -HIVIDHDGN---LPYWEGQSYGVIPPGE--NPKKP--------------
+Arabidopsis_lyrata             -HIVIDHDGN---VPYWEGQSYGVIPPGE--NPKKP--------------
+Physcomitrella_patens          -HIVIDHEGN---VPYWEGQSYGIIPPGE--NPKKP--------------
+Micromonas_pusilla             -HIIIEHGGK---MPFWEGQSYGVIPPGTKVNSKGK--------------
+Micromonas_sp-                 -HIIIEHGGK---MPFWEGQSYGVIPPGTKVNSKGK--------------
+Ostreococcus_lucimarinus       -HIIIEHGGK---MPFWEGQSYGVIPPGTKVNSKGK--------------
+Ostreococcus_tauri             -HIIIEHGGK---MPFWEGQSYGVIPPGTKVNSKGK--------------
+Volvox_carteri                 -HIIIETEGK---IPFWEGQSYGVIPPGTKINSKGK--------------
+Chlamydomonas_reinhardtii      -HIIIETEGK---IPFWEGQSYGVIPPGTKINSKGK--------------
+Selaginella_moellendorffii     -HIVIDHGGN---IPFWEGQSYGILPPGT--NPKRP--------------
+Phaeodactylum_tricornutum      -HIIMSLPKG---LHYVEGQSLSVIPPGT--NPQT---------------
+Thalassiosira_pseudonana       -HVIMKLPEG---FHYVEGQSLSVIPPGT--DAKS---------------
+Toxoplasma_gondii              VFSIVLHHGKQ--LPFVEGQGIGIMPPSR---AAQAPVADESTSQRNSVQ
+Rhodobacteraceae_bacterium     --IILDFQGHP--MPVLEGQSVGIIPPGA---DADG--------------
+Roseobacter_sp-                --IILDPGALP--FPVLEGQSVGIIPPGT---DAEG--------------
+Sagittula_stellata             --IILDFAGQP--MPVLEGQSIGIIPPGA---DAEG--------------
+Ruegeria_pomeroyi              --IILDFGGQP--FPVLEGQSIGIIPPGT---DEAG--------------
+Bordetella_petrii              --IVLEFGSVP--FPVLEGQSIGILPPGT---DAQG--------------
+Aromatoleum_aromaticum         --VVLDFGSTP--FPVLEGQSIGIIPPGT---DDKG--------------
+Plasmodium_falciparum          ----LEINHNG-LFKYLEGHTCGIIPYYNELDNNPNNQINKDHNIINTTN
+Plasmodium_berghei             ----IEINHNR-LFKYIEGQSCGIIPYYSEKDNEYNN-----TKIENDVN
+Plasmodium_yoelii              ----LEINHNG-LFKYIEGQSCGIIPYYSETDNECNN-----TKIENDVN
+Plasmodium_chabaudi            ----LDIDHNG-LFKYIEGQTCGIIPYYSDQDNEINN-----KKIENDIN
+Plasmodium_knowlesi            ----VEIDHGG-MFKYLEGHSCGVIPYYEDLIQADDK--------NNSQE
+Plasmodium_vivax               ----LEIDHGG-MFKYLEGHSCGVIPYYEEVVQTDDK--------NNPQE
+Theileria_parva                --IEIDHRGEY---SYLPGQYCGVIPPGLCMSTNRR--------------
+Bradyrhizobium_sp-             --IEFDLGEAG--LDYVVGDSFGIFAKNDLGLVDQIIALLGASHI--TQV
+Bradyrhizobium_japonicum       --VEFDLSASK--LDYIVGDSFGVFARNDVGLVDQIIALLGASHT--TKV
+Bradyrhizobiaceae_bacterium    --IEFDLAQAG--LDYVVGDSFGVFAANDLGLVDQIIAMLGASHM--TEV
+Rhodopseudomonas_palustris     --VEFELEDC---LNYEAGDSFGLFPTNDPALVDAVLHALGAPAE--FPI
+Xanthobacter_autotrophicus     --IEFDLAGSG--IDYVAGDSFGVFPVNDPDLVAAVLAALHAPPD--FPI
+Methylobacterium_populi        --IEIDLTGTP--ITYEAGDSLGLFPANAPALVDAVIAELGTRPE--RKI
+Pusillimonas_sp-               --LEISLEGSG--LSYQPGDALGVWPTQSAALVDQVMAILNLSPDESVTV
+gamma_proteobacterium          --LELSLEGSG--LHYQPGDSLGVWHFNPPSLVDNVLATLGVSGDQTFTH
+Pectobacterium_wasabiae        --IEIDLGDSG--LRYQPGDALGVWFDNDPALVQELLELLWLKGDESVSV
+Enterobacter_asburiae          --IEIDLGDSG--LRYQPGDALGVWYQNDSALVKELVELLWLKGDETVTV
+Enterobacter_cloacae           --IEIDLGDSG--LRYQPGDALGVWYQNDPALVKELVELLWLKGDEPVTV
+Enterobacter_mori              --IEIDLGDSG--LRYQPGDALGIWYQNDPALVKELVELLWLKGDEPVTI
+Escherichia_coli               --IEIDLGDSG--LRYQPGDALGVWYQNDPALVKELVELLWLKGDETVTV
+Escherichia_fergusonii         --IEIDLGDSG--LRYQPGDALGVWYQNDPALVKELVELLWLKGDEPVTV
+Shigella_dysenteriae           --IEIDLGDSD--LRYQPGDALGVWYQNDPALVTELVELLWLKGDEPVTV
+Psychromonas_ingrahamii        --IEIDLEGSD--LHYKVGDALGVWFENDPQLVDALIKKLKLDPQEQVKI
+Pectobacterium_carotovorum     --FAFDIADSN--VSYEAGDALGIWPTNSPELVAEILSALKLSPATVVTV
+Pseudomonas_putida             --LVFDLGGSG--FSYAAGDALGVWPRNCPALVEELLTLMQLDGQAMVEL
+Sideroxydans_lithotrophicus    --LVFRTDDLD--FDGKVGSCVRVLAPGQY--------------------
+Perkinsus_marinus              -HIVLDTGGD---LEYLEGQSVGIIPPGA---------------------
+Gloeobacter_violaceus          -HVVLDLSGGD--LRYFEGQSIGIVPPGT---DAQ---------------
+Cyanobium_sp-                  -HITFDLAGGDPQLHYVEGQSIGIIPDGT---DAN---------------
+Paulinella_chromatophora       -HITFDLSGGN--LRYVEGQSIGIIPDGT---DVN---------------
+Prochlorococcus_marinus        -HITFDLSGGDPDFKYVEGQSCGILAAGE---DAK---------------
+Cyanothece_sp-                 -HLTFDISGGD--LRYVEGQSIGIIPPGT---DDK---------------
+Microcystis_aeruginosa         -HVTFDLSGSD--LRYLEGQSIGIIPPGT---DAN---------------
+cyanobacterium_UCYN-A          -HLTFDLSGGD--LHYVEGQSIGIIPPGV---DEKK--------------
+Synechocystis_sp-              -HLTFDLSAGD--LRYLEGQSIGIIPPGE---DDK---------------
+Lyngbya_majuscula              -HLKFDLSGGD--LRYLEGQSIGIIPEGT---DDK---------------
+Acaryochloris_marina           -HITFDLAGSD--FHYLEGQSLGIIPEGT---DEN---------------
+Thermosynechococcus_elongatus  -HIIFDISGTE--LRYLEGQSIGIIPAGT---DAN---------------
+Lyngbya_sp-                    -HLTFDLSGGD--LRYLEGQSIGIIPPGT---DAN---------------
+Trichodesmium_erythraeum       -HLVFDLSGSD--LHYLEGQSIGIIPPGK---DAK---------------
+Oscillatoria_sp-               -HVTFDLSGGN--LRYLEGQSIGIIPEGT---DAN---------------
+Microcoleus_vaginatus          -HVTFDLSGGN--LHYLEGQSIGIIPDGT---DKN---------------
+Arthrospira_maxima             -HLIFDISGGD--LRYLEGQSIGIIPPGT---DNN---------------
+Arthrospira_platensis          -HLIFDISGGD--LRYLEGQSIGIIPPGT---DNN---------------
+
+           151                                            200
+Query_id                       --------------------------------------------------
+Nostoc_sp-                     --------------------------------------------------
+Anabaena_variabilis            --------------------------------------------------
+'Nostoc_azollae'               --------------------------------------------------
+Nostoc_punctiforme             --------------------------------------------------
+Nodularia_spumigena            --------------------------------------------------
+Fischerella_sp-                --------------------------------------------------
+Raphidiopsis_brookii           --------------------------------------------------
+Cylindrospermopsis_raciborskii --------------------------------------------------
+Synechococcus_elongatus        --------------------------------------------------
+Synechococcus_sp-              --------------------------------------------------
+Sorghum_bicolor                --------------------------------------------------
+Oryza_sativa                   --------------------------------------------------
+Zea_mays                       --------------------------------------------------
+Vitis_vinifera                 --------------------------------------------------
+Ricinus_communis               --------------------------------------------------
+Populus_trichocarpa            --------------------------------------------------
+Arabidopsis_thaliana           --------------------------------------------------
+Arabidopsis_lyrata             --------------------------------------------------
+Physcomitrella_patens          --------------------------------------------------
+Micromonas_pusilla             --------------------------------------------------
+Micromonas_sp-                 --------------------------------------------------
+Ostreococcus_lucimarinus       --------------------------------------------------
+Ostreococcus_tauri             --------------------------------------------------
+Volvox_carteri                 --------------------------------------------------
+Chlamydomonas_reinhardtii      --------------------------------------------------
+Selaginella_moellendorffii     --------------------------------------------------
+Phaeodactylum_tricornutum      --------------------------------------------------
+Thalassiosira_pseudonana       --------------------------------------------------
+Toxoplasma_gondii              PDG-----------------------------------------------
+Rhodobacteraceae_bacterium     --------------------------------------------------
+Roseobacter_sp-                --------------------------------------------------
+Sagittula_stellata             --------------------------------------------------
+Ruegeria_pomeroyi              --------------------------------------------------
+Bordetella_petrii              --------------------------------------------------
+Aromatoleum_aromaticum         --------------------------------------------------
+Plasmodium_falciparum          HTN-----------------------------------------------
+Plasmodium_berghei             FEK-----------------------------------------------
+Plasmodium_yoelii              CEK-----------------------------------------------
+Plasmodium_chabaudi            SEI-----------------------------------------------
+Plasmodium_knowlesi            GRK-----------------------------------------------
+Plasmodium_vivax               GGK-----------------------------------------------
+Theileria_parva                --------------------------------------------------
+Bradyrhizobium_sp-             NGK---PLRQCLLEDVSLSPAPDSLFELISFITGGA-TREKARRLAQGED
+Bradyrhizobium_japonicum       NGK---TLREVLIDDVSLSPAPDSLFELISFITGGA-QREKARALAQGED
+Bradyrhizobiaceae_bacterium    NGK---PLREVLLRDVSLSPAPDTLFELISFVTGGA-QREKARALASGDD
+Rhodopseudomonas_palustris     AQS---TLRQTLLDSVSLSPAPDTLFQLISYITGGD-KRKKARALASGED
+Xanthobacter_autotrophicus     ADK---TLGEVLSREVCLKSAPDALFTLISYITGGD-RKAKARALASGAD
+Methylobacterium_populi        GGK---TLRDRLLTDYSLGAAPDNLYQLLSLLTSGE-ARKKAQALAAGED
+Pusillimonas_sp-               GNA-TRSLKEWLSQHRELTQLTKPFLAAHAELAQS----DELKSLLQPEA
+gamma_proteobacterium          KGE-TFTLRQWFSEKLELTRLTRAFLVEHSSRVNAGVDQADLQAALAEGA
+Pectobacterium_wasabiae        DGE-TLPLSQALKSHFELTQNTAPIVEKYAALSRN----ETLLSLLADKS
+Enterobacter_asburiae          EGK-TQTLAEALQWHFELTVNTANIVENYATLTRS----ESLLPLVGDKA
+Enterobacter_cloacae           EGK-TQPLSEALQWHFELTVNTANIVENYATLTRS----ESLLPLVGDKA
+Enterobacter_mori              DGK-TQPLSDALQWHFELTVNTPNIVENYATLTRS----ESLLPLVGDKA
+Escherichia_coli               DGK-TLTLSEALQWHFELTVNTANIVENYATLTRS----ETLLPLVGDKA
+Escherichia_fergusonii         EGK-TLPLNEALQWHFELTVNTANIVENYATLTRS----ETLLPLVGDKS
+Shigella_dysenteriae           EGK-TLPLNEALQWHFELTVNTANIVENYATLTRS----ETLLPLVGEKA
+Psychromonas_ingrahamii        DDK-NISLKQALTESFELTATHPAFVEGYAKLTKN----KKLLTLAEDKN
+Pectobacterium_carotovorum     KDKGDMTLAEALSQHVEIARITPEFLQFVSQRSGTS----ALADLLQEER
+Pseudomonas_putida             KGHCAMPLAEALQAHLEIAKVTAQQLQAFA--SNAP----DLQRLLQPEC
+Sideroxydans_lithotrophicus    --------------------------------------------------
+Perkinsus_marinus              --------------------------------------------------
+Gloeobacter_violaceus          --------------------------------------------------
+Cyanobium_sp-                  --------------------------------------------------
+Paulinella_chromatophora       --------------------------------------------------
+Prochlorococcus_marinus        --------------------------------------------------
+Cyanothece_sp-                 --------------------------------------------------
+Microcystis_aeruginosa         --------------------------------------------------
+cyanobacterium_UCYN-A          --------------------------------------------------
+Synechocystis_sp-              --------------------------------------------------
+Lyngbya_majuscula              --------------------------------------------------
+Acaryochloris_marina           --------------------------------------------------
+Thermosynechococcus_elongatus  --------------------------------------------------
+Lyngbya_sp-                    --------------------------------------------------
+Trichodesmium_erythraeum       --------------------------------------------------
+Oscillatoria_sp-               --------------------------------------------------
+Microcoleus_vaginatus          --------------------------------------------------
+Arthrospira_maxima             --------------------------------------------------
+Arthrospira_platensis          --------------------------------------------------
+
+           201                                            250
+Query_id                       ---------------------------------GKPEKLRLYSIASTRHG
+Nostoc_sp-                     ---------------------------------GKPEKLRLYSIASTRHG
+Anabaena_variabilis            ---------------------------------GKPEKLRLYSIASTRHG
+'Nostoc_azollae'               ---------------------------------GKPEKLRLYSIASTRHG
+Nostoc_punctiforme             ---------------------------------GKPEKLRLYSIASTRHG
+Nodularia_spumigena            ---------------------------------GKPEKLRLYSIASTRHG
+Fischerella_sp-                ---------------------------------GKPEKLRLYSIASTRHG
+Raphidiopsis_brookii           ---------------------------------GKPEKLRLYSIASTRHG
+Cylindrospermopsis_raciborskii ---------------------------------GKPEKLRLYSIASTRHG
+Synechococcus_elongatus        ---------------------------------GKPHKLRLYSIASTRHG
+Synechococcus_sp-              ---------------------------------GKPHKPRLYSIASTRFG
+Sorghum_bicolor                ---------------------------------GAPQNVRLYSIASTRYG
+Oryza_sativa                   ---------------------------------GAPHNVRLYSIASTRYG
+Zea_mays                       ---------------------------------GSPNTVRLYSIASTRYG
+Vitis_vinifera                 ---------------------------------GAPHNVRLYSIASTRYG
+Ricinus_communis               ---------------------------------GAPHNVRLYSIASTRYG
+Populus_trichocarpa            ---------------------------------GAPHNVRLYSIASTRYG
+Arabidopsis_thaliana           ---------------------------------GAPHNVRLYSIASTRYG
+Arabidopsis_lyrata             ---------------------------------GAPHNVRLYSIASTRYG
+Physcomitrella_patens          ---------------------------------GQPNSVRLYSIASTRYG
+Micromonas_pusilla             ---------------------------------EVPHGVRLYSIASTRYG
+Micromonas_sp-                 ---------------------------------EVPHGVRLYSIASTRYG
+Ostreococcus_lucimarinus       ---------------------------------EVPHGVRLYSIASSRYG
+Ostreococcus_tauri             ---------------------------------EVPHGVRLYSIASSRYG
+Volvox_carteri                 ---------------------------------EVPHGTRLYSIASSRYG
+Chlamydomonas_reinhardtii      ---------------------------------EVPHGTRLYSIASSRYG
+Selaginella_moellendorffii     ---------------------------------GAPPPNRLYSLASSRYG
+Phaeodactylum_tricornutum      ---------------------------------GRPHKPRLYSIASTRYG
+Thalassiosira_pseudonana       ---------------------------------GRNHKPRLYSIASTRYG
+Toxoplasma_gondii              --QGQQPTTVASIC-------------------KRRLLPRIYSIASSRDG
+Rhodobacteraceae_bacterium     ----------------------------------VAHLPRLYSVSSPRDG
+Roseobacter_sp-                ----------------------------------KAHLPRLYSISSPRDG
+Sagittula_stellata             ----------------------------------KPHLPRLYSVSSPRDG
+Ruegeria_pomeroyi              ----------------------------------NPHLPRLYSVSSPRDG
+Bordetella_petrii              ----------------------------------RPHHARQYSLASPRDG
+Aromatoleum_aromaticum         ----------------------------------RPHLLRMYSVASPRNG
+Plasmodium_falciparum          --HN----------------------NIALSHIKKQRCARLYSISSSNN-
+Plasmodium_berghei             --N--------------------------KNNVKTKKCARLYSISSGN--
+Plasmodium_yoelii              --NDVNCEKNDVNCEKNDVNCEKNNVNCEKNNVKRKKCARLYSISSSN--
+Plasmodium_chabaudi            --N----------------------------NVKPKKCGRLYSISSSN--
+Plasmodium_knowlesi            --K------------------------------RGNKFARLYSISSTN--
+Plasmodium_vivax               --K------------------------------GGKKCARLYSISSSN--
+Theileria_parva                ------------------------------------HVPRSYSLAPSMTG
+Bradyrhizobium_sp-             P---DGDAATLDVMAVLQKFSGVRPHPEAFVEALEPLQPRLYSISSSH--
+Bradyrhizobium_japonicum       P---DGDAATLDVMAALQKFSGIRPHPEAFVEALEPLQPRLYSISSSH--
+Bradyrhizobiaceae_bacterium    P---DGDAANLDVLAALQKFSGVRPHPEAFVEALEPLQPRLYSISSSH--
+Rhodopseudomonas_palustris     P---DGDAATLDVLAALEKFPGLRPDPEAFIEALDPLQPRLYSISSSP--
+Xanthobacter_autotrophicus     P---DGDAATLDVLAALEKFPGIRPDPEALVECLEPLQPRLYSISSSP--
+Methylobacterium_populi        P---DGDAAYLDVLGALHKFPGARPDAEVFLEALDELQPRLYSISSSP--
+Pusillimonas_sp-               MDDFRALLETRQLVDVLK-AYPANWTAQGLIKALRPLTPRMYSIASSQ--
+gamma_proteobacterium          RDALAAFLGTHQLIDLLK-RFPANWTAETLITSLRPLTPRLYSISSSQ--
+Pectobacterium_wasabiae        A--LQQFAQRTPLVDMVR-QAPTELTAEQLLGLLRPLAPRLYSIASSQ--
+Enterobacter_asburiae          K--LQHYAATTPIVDMVR-FAPAQLDAEALVGLLRPLTPRLYSIASSQ--
+Enterobacter_cloacae           K--LQHYAATTPIVDMVR-FSPAQLDADALIGLLRPLTPRLYSIASSQ--
+Enterobacter_mori              K--LQHYAATTPIVDMVR-FSPAQLDADALIGLLRPLTPRLYSIASSQ--
+Escherichia_coli               K--LQHYAATTPIVDMVR-FSPAQLDAEALINLLRPLTPRLYSIASSQ--
+Escherichia_fergusonii         K--LQHYAATTPIVDMVR-FSPAQLDAEALINLLRPLTPRLYSIASSQ--
+Shigella_dysenteriae           K--LQHYAATTPIVDMVR-FSPAQLDAEALINLLRPLTPRLYSIASSQ--
+Psychromonas_ingrahamii        K--LRDFANTHQIIDVLSKKGSKAVTAEKFVTLLRHLSPRLYSIASSQ--
+Pectobacterium_carotovorum     KEELKQWLWGRQIVDVLQ-AFPIQVQADELLSVLKRMQPRLYSISSSP--
+Pseudomonas_putida             KAELQDWLWGRQLVDVLR-AFPQQLPLASWLELLKPLQPRLYSISSSP--
+Sideroxydans_lithotrophicus    ---------------------------------GNRYHKRFYLIADHDHQ
+Perkinsus_marinus              -------------------------------------KTKVYSIASAGQG
+Gloeobacter_violaceus          ---------------------------------GKPHKLRLYSIASSRIG
+Cyanobium_sp-                  ---------------------------------GKPHKLRLYSIASTRHG
+Paulinella_chromatophora       ---------------------------------GKPHKLRLYSIASSRHG
+Prochlorococcus_marinus        ---------------------------------GKPHRPRLYSIASTRYG
+Cyanothece_sp-                 ---------------------------------GKPHKLRLYSIASTRHG
+Microcystis_aeruginosa         ---------------------------------GKPHKLRLYSIASTRHG
+cyanobacterium_UCYN-A          ---------------------------------GKPHKLRLYSIASTRHG
+Synechocystis_sp-              ---------------------------------GKPHKLRLYSIASTRHG
+Lyngbya_majuscula              ---------------------------------GKPHKLRLYSIASTRHG
+Acaryochloris_marina           ---------------------------------GRLHKLRLYSIASTRHG
+Thermosynechococcus_elongatus  ---------------------------------GKPHKLRLYSIASTRHG
+Lyngbya_sp-                    ---------------------------------GKPHKLRLYSIASTRHG
+Trichodesmium_erythraeum       ---------------------------------GKAHKLRLYSIASTRHG
+Oscillatoria_sp-               ---------------------------------GKPHKLRLYSIASTRHG
+Microcoleus_vaginatus          ---------------------------------GKPHKIRLYSIASTRHG
+Arthrospira_maxima             ---------------------------------GKPHKLRLYSIASTRHG
+Arthrospira_platensis          ---------------------------------GKPHKLRLYSIASTRHG
+
+           251                                            300
+Query_id                       DDVDDKTISLCVRQLEYKHPESGETV-----------YGVCSTYLTH-IE
+Nostoc_sp-                     DDVDDKTISLCVRQLEYKHPESGETV-----------YGVCSTYLTH-IE
+Anabaena_variabilis            DDVDDKTISLCVRQLEYKHPETGETV-----------YGVCSTYLTH-IE
+'Nostoc_azollae'               DDVDDKTISLCVRQLEYKHPESGETV-----------YGVCSTYLTQ-LA
+Nostoc_punctiforme             DDVDDKTVSLCVRQLEYKHPETGETV-----------YGVCSTHLCF-LK
+Nodularia_spumigena            DDVDDKTVSLCVRQLEYKHPETGETV-----------YGVCSTHLTQ-LE
+Fischerella_sp-                DDVDDKTVSLCVRQLEYKHPETGETV-----------YGVCSTYLCN-LK
+Raphidiopsis_brookii           DDVDDTTISLCVRQLEYKHPESGEIV-----------YGVCSTYLTD-LK
+Cylindrospermopsis_raciborskii DNVDDTTISLCVRQLEYKHPQTGETV-----------YGVCSTYLTD-LK
+Synechococcus_elongatus        DHVDDKTVSLCVRQLQYQN-EAGETI-----------NGVCSTFLCG-LK
+Synechococcus_sp-              DDGEGRTVSLSVKRAEYVDRETGQPG-----------VGVCSGFLTD-LK
+Sorghum_bicolor                DYFDGRTGSLCVRRAVYYDPETGKEEPS--------KNGVCSNFLCN-SK
+Oryza_sativa                   DSFDGRTTSLCVRRAVYYDPETGKEDPS--------KNGVCSNFLCN-SK
+Zea_mays                       DSFDGKTASLCVRRAVYYDPETGEEDPS--------KRGVCSNFLCG-SK
+Vitis_vinifera                 DFFDGKTTTLCVRRAVYYDPVTGKEDPS--------KNGVCSNYLCD-SK
+Ricinus_communis               DNFDGKTATLCVRRALYYDPETGKEDPS--------KMGICSNFLCN-SK
+Populus_trichocarpa            DSFDGKTASLCVRRAVYYDPETGKEDPS--------KSGVCSNFLCN-SK
+Arabidopsis_thaliana           DFFDGKTASLCVRRAVYYDPETGKEDPS--------KNGVCSNFLCD-SK
+Arabidopsis_lyrata             DSFDGKTASLCEKKILP---------------------GVCSNFLCN-AK
+Physcomitrella_patens          DDFDGRTASFCVRRAVYWDPETGKEDPA--------KKGICSNFLCD-SK
+Micromonas_pusilla             DEFDGNTATLCVRRATYWDSEKNAEDPA--------KKGICSNFLCD-AK
+Micromonas_sp-                 DEFDGKTATLCVRRATYWCPEMKAEDPA--------KKGICSNFLCD-AK
+Ostreococcus_lucimarinus       DSYDGQTATLCVRRATYWDPEMNAEDPA--------KKGICSNFLCD-AK
+Ostreococcus_tauri             DSYDGLTATLCVRRATYWDPEMNAEDPA--------KKGICSNFLCD-AK
+Volvox_carteri                 DDFDGKTASLCVRRAVYVDPETGKEDPA--------KKGICSNYLCD-AT
+Chlamydomonas_reinhardtii      DDFDGQTASLCVRRAVYVDPETGKEDPA--------KKGLCSNFLCD-AT
+Selaginella_moellendorffii     DDLSGRTASLCVKRIVSYDP--NDPNST--------IPGICSNFLCD-AR
+Phaeodactylum_tricornutum      DDLRGNTVSLCVRRAEYVDPQTRKVDPT--------KAGVCSNFLCD-MV
+Thalassiosira_pseudonana       DTLDGTTISLCVRRAEFIDPVTGEKDPE--------KQGVCSNFLCN-VN
+Toxoplasma_gondii              DDGCGSTLTLCVKKHIYADPVTGKRDRQ--------KDGICSTYICD-AK
+Rhodobacteraceae_bacterium     ERPGYNNVSLTVKRETG---------------------GVCSNYICD-LK
+Roseobacter_sp-                ERPGYHNISLTVKREDK---------------------GLASNFLCD-LE
+Sagittula_stellata             ERPNYNNVSLTVKRETG---------------------GLCSNYLCD-LK
+Ruegeria_pomeroyi              ERPNFNNLSLTVKREPH---------------------GICSNHVCD-LK
+Bordetella_petrii              ERAGYNNLSLTVKRVTEDHQGQPAR-------------GVCSNYLCD-LA
+Aromatoleum_aromaticum         ERPHYNNLALTVKRVTEDHEGKAAR-------------GVASNYVCD-LK
+Plasmodium_falciparum          ----MENLSVAIKIHKYEQTENAPNITN---------YGYCSGFIKN-LK
+Plasmodium_berghei             ----CYNLSVAIRIHKYEENLNEIKNIK---------YGYCSSYIEN-IK
+Plasmodium_yoelii              ----SYNLSVAIRIHKYEENVNEIKNIK---------YGYCSGYIEN-IK
+Plasmodium_chabaudi            ----SHNLSVAIRMHKYEENLNGIKNIK---------YGYCSGYIEN-LK
+Plasmodium_knowlesi            ----AENLSFAIRIHSYQEEENGCMQHK---------YGYCSGYIKE-LK
+Plasmodium_vivax               ----SNNLSIAIRIHTYEAEKNGHLHLQ---------YGYCSGYIKG-LK
+Theileria_parva                ---DDNLLSICIRVTKPFKDN----------------LGVCSRFLSA-CE
+Bradyrhizobium_sp-             -NATPGRLSLTVDCVRYV-IGKRKRL------------GLASTFLAERIN
+Bradyrhizobium_japonicum       -NATPGKLSLTVDSVRYV-IGKRKRI------------GVASTFLGERIA
+Bradyrhizobiaceae_bacterium    -NATPGKLSLTVDAVRYV-IGKRKRL------------GLASTFLAERIN
+Rhodopseudomonas_palustris     -KTTPGRLSLTVDCVRYK-IGKRQRL------------GVCSTDLAERVQ
+Xanthobacter_autotrophicus     -TATPGKLTLTVDAVRYE-QTGRTRL------------GVASTFLGGRIA
+Methylobacterium_populi        -KMDVGRVSLTVDAVRYN-HRSRLRL------------GVASTHLGERLP
+Pusillimonas_sp-               -VVVDEEVHLTLANVAYE-YEGEARW------------GVASHFLSG-LD
+gamma_proteobacterium          -TVAEDEVHLTVAKVAYD-AHGEAHL------------GAASGFLAE-LP
+Pectobacterium_wasabiae        -AEVESEVHITVGVVRYE-YEGRARA------------GGASSYLADRLS
+Enterobacter_asburiae          -AEVESEVHVTVGVVRYD-IEGRARA------------GGASSFLADRIE
+Enterobacter_cloacae           -AEVESEVHITVGVVRYD-IEGRARA------------GGASSFLADRVE
+Enterobacter_mori              -AEVESEVHVTVGVVRYD-IEGRARA------------GGASSFLADRVE
+Escherichia_coli               -AEVENEVHVTVGVVRYD-VEGRARA------------GGASSFLADRVE
+Escherichia_fergusonii         -AEVENEVHVTVGVVRYD-IEGRARA------------GGASSFLADRVE
+Shigella_dysenteriae           -AEVENEVHVTVGVVRYD-VEGRTRA------------GGASSFLADRVE
+Psychromonas_ingrahamii        -AEVEQEVHLTVAALTFENEEGEVRQ------------GGASGFLAHRLQ
+Pectobacterium_carotovorum     -KVTPHQIHLTVSTVRYG-VEGQSRG------------GVCSTFLADRAA
+Pseudomonas_putida             -LAHPGQVHLTVSTVRYG-E----RK------------GVCSSFLADRAQ
+Sideroxydans_lithotrophicus    -SPDAAEFALCVRRCFYTDEVNGEEY-----------EGIASNYLCD-LK
+Perkinsus_marinus              DLSDGTTVSLCVKRLVEVDKDYGEVEEDGLYAGHKVYRGVGSNYLCD-LK
+Gloeobacter_violaceus          DNKDGKTVSLCVKRVVYKHPETGEIV-----------RGVASNFICD-LA
+Cyanobium_sp-                  DNMVGHTVSLCVRQLQYEK--DGETI-----------NGVCSTFLCD-IE
+Paulinella_chromatophora       DNLQGNTISLCVRQLQYEK--DGETI-----------NGVCSTFLCD-IK
+Prochlorococcus_marinus        DNFAGNTLSLCVRQLQYEK--DGETI-----------NGVCSTYLCN-LS
+Cyanothece_sp-                 DKLDDKTVSLCVRQLEYEHPETKETV-----------YGVCSTYLCH-LE
+Microcystis_aeruginosa         DKLDDKTVSLCVRQLEYQHPETKETV-----------YGVCSTHLCN-VE
+cyanobacterium_UCYN-A          DKNDDKTVSLCIRKLEYQHPETNETV-----------HGVCSTFLCN-LE
+Synechocystis_sp-              DFGDDKTVSLCVRQLEYQN-EAGETV-----------QGVCSTYLCN-IK
+Lyngbya_majuscula              DDLDDKTVSLCVRQLQYKHPETGETV-----------NGVCSTFLCN-MN
+Acaryochloris_marina           DQGDDKTVSLCVRQLEYNHPETGERV-----------YGVCSSYLNQ-LQ
+Thermosynechococcus_elongatus  DFQDDKTVSLCVRRLEYKDKETGETI-----------YGVCSSYLNQ-LQ
+Lyngbya_sp-                    DNLDEKTVSLCVRQLEYKHPETGDTV-----------YGVCSSFLCN-IK
+Trichodesmium_erythraeum       DHLNDQTVSLCVRRLEYNHPETGERI-----------YGVCSSYLCG-ME
+Oscillatoria_sp-               DNLDDKTISLCVRRLEYKHPETGEKV-----------FGVCSTYLTG-LE
+Microcoleus_vaginatus          DHLDDKTISLCVRRLEYKSPETGEQV-----------FGVCSTFLTG-LQ
+Arthrospira_maxima             DHVDDKTVSLCVRQLEYKHPETGETV-----------YGVCSTYLCN-LE
+Arthrospira_platensis          DHVDDKTVSLCVRQLEYKHPETGETV-----------YGVCSTYLCN-LE
+
+           301                                            350
+Query_id                       PGSEVKITGPVGKEMLLPD--------DPEANVIMLATGTGIAPMRTYLW
+Nostoc_sp-                     PGSEVKITGPVGKEMLLPD--------DPEANVIMLATGTGIAPMRTYLW
+Anabaena_variabilis            PGSEVKITGPVGKEMLLPD--------DPEANVIMLATGTGIAPMRTYLW
+'Nostoc_azollae'               PGADVKITGPVGKEMLLPD--------DTDTNVIMLATGTGIAPMRAYLW
+Nostoc_punctiforme             PGEEVKITGPVGKEMLLPN--------DPDANVIMMATGTGIAPMRAYLW
+Nodularia_spumigena            VGAEVKITGPVGKEMLLPE--------DPEAKVIMMATGTGIAPMRAYLW
+Fischerella_sp-                PGDEVKITGPVGKEMLLPP--------DEDANVIMMATGTGIAPMRAYLW
+Raphidiopsis_brookii           PGDNVKITGPVGKEMLLPD--------NTDANVIMLATGTGIAPMRAYLW
+Cylindrospermopsis_raciborskii PGDDVKITGPVGKEMLLPD--------NTDANVIMLATGTGIAPMRAYLW
+Synechococcus_elongatus        PGDDVKITGPVGKEMLLPA--------DTDANVIMMGTGTGIAPFRAYLW
+Synechococcus_sp-              AGDEVMITGPSGKTFLLPE--------DENANLILIATGTGIAPFRAFIK
+Sorghum_bicolor                PGDKIQLTGPSGKIMLLPEE-------DPNATHIMIATGTGVAPFRGYLR
+Oryza_sativa                   PGDKVKVTGPSGKIMLLPEE-------DPNATHIMIATGTGVAPFRGYLR
+Zea_mays                       PGDKVQITGPSGKIMLLPED-------DPNATHIMIATGTGVAPYRGYLR
+Vitis_vinifera                 PGDKIKITGPSGKIMLLPED-------DPNATHIMIATGTGVAPYRGYLR
+Ricinus_communis               PGDKVQITGPSGKIMLLPES-------DPNATHIMIATGTGVAPFRGYLR
+Populus_trichocarpa            PGDKVQITGPSGKIMLLPED-------DPNATHIMIATGTGVAPFRGYLR
+Arabidopsis_thaliana           PGDKIQITGPSGKVMLLPES-------DPNATHIMIATGTGVAPYRGYLR
+Arabidopsis_lyrata             PGDKVKITGPSGKVMLLPED-------DPKATHIMIATGTGVAPYRGYLR
+Physcomitrella_patens          PGDKVQIVGPSGKVLLLPEE-------DPSATHIMVATGTGIAPYRGYLR
+Micromonas_pusilla             PGAEVMMTGPTGQVMLLPE--------DPATPVIMVATGTGIAPMRSYIR
+Micromonas_sp-                 PGQEVMMTGPTGQVMLLPK--------DPATPVIMVATGTGIAPMRSYYR
+Ostreococcus_lucimarinus       PGAEVMMTGPTGQVMLLPK--------DPATPVIMVATGTGIAPMRSYIR
+Ostreococcus_tauri             PGQEVMMTGPTGQVMLLPK--------DPATPVIMVATGTGIAPMRSYLR
+Volvox_carteri                 PGTEIVMTGPTGKVLLLPA--------DANAPLICVATGTGIAPFRSFWR
+Chlamydomonas_reinhardtii      PGTEISMTGPTGKVLLLPA--------DANAPLICVATGTGIAPFRSFWR
+Selaginella_moellendorffii     PGDQVRIVGPFGSSLLLNEE-------NPRGAQIMVGTGTGVAPFRGFLR
+Phaeodactylum_tricornutum      PGTIVQVAGPVGKTMLLPDIGNSNNEKANQQDIIMVATGTGIAPFRAFLR
+Thalassiosira_pseudonana       PGDTVSVAGPVGKTMLLP--------EDPTKDVIMVATGTGIAPFRGFMH
+Toxoplasma_gondii              CGDEVEVTGPVGKTLLLPT--------STETPLVMLATGTGVAPFRSHLQ
+Rhodobacteraceae_bacterium     TGDSVNVTGPFGATFLLPD--------DPDARILMICTGTGSAPMRAFTM
+Roseobacter_sp-                TGAEVEVTGPFGATFLMPS--------DPQAHLLLICTGTGSAPMRAFTM
+Sagittula_stellata             VGDEVRVTGPFGATFLMPD--------DPEARLLMICTGTGSAPMRAFTM
+Ruegeria_pomeroyi              PGDTVRVTGPFGATFLMPS--------DPAAHLLMICTGTGSAPFRAFTM
+Bordetella_petrii              KNDTVQVIGPFGNTFLMPN--------HARANLMMICTGTGSAPMRAMTE
+Aromatoleum_aromaticum         KGDKVQVTGPYGSTYLMPN--------HPASSIMMICTGTGSAPMRAMTE
+Plasmodium_falciparum          INDDIYLTGAHGYFNLPNDAI------QKNTNFIFIATGTGISPYISFLK
+Plasmodium_berghei             KNDDIYLTGAHGNFILSNNVI------QNNTNLILIGTGTGISPYISFLK
+Plasmodium_yoelii              KNDDIYLTGAHGNFILSNNII------ENNINLILIGTGTGISPFISFLK
+Plasmodium_chabaudi            INDDIYLTGPHGNFILPNNII------QDNINLILIGTGTGISPYIGFLK
+Plasmodium_knowlesi            KNDNIYITGAHGCFLLPDNVS------EKNTNLILIATGTGISPYISFLK
+Plasmodium_vivax               KNDNIYLTGAHGCFVLPNNVL------EENTNLILIATGTGISPYIAFLK
+Theileria_parva                PGTAVDLTGPFGKELILTEED------AKSNNLILIATGTGISPFRAFLK
+Bradyrhizobium_sp-             PGDRLRVYVQKAHGFALPA--------DPKTPIIMVGPGTGIAPFRAFLL
+Bradyrhizobium_japonicum       EGEKLKVYVQKAHGFGLPQ--------DPKTPVIMIGPGTGIAPFRAFLL
+Bradyrhizobiaceae_bacterium    PGDTLGVYVQKAHGFGLPQ--------DPNTPIIMIGPGTGIAPFRAFLH
+Rhodopseudomonas_palustris     PGDTLRAYIQKAHNFALPP--------DSSRPIIMIGPGTGVAPFRAFLH
+Xanthobacter_autotrophicus     PGTRMKAYIQKAHGFALPA--------DLSKDVIMVGPGTGIAPFRSFLH
+Methylobacterium_populi        EQTKVKIYLQKAHGFALPE--------DASKDVIMCGPGTGVAPFRSFLR
+Pusillimonas_sp-               EGEQLSIFVEENQRFRLPA--------DSSRDIIMIGPGTGIAPFRAFVQ
+gamma_proteobacterium          ADGQLPIYIEENRHFRLPK--------NADRDVIMVGPGTGVAPFRAFLQ
+Pectobacterium_wasabiae        EDDEIRVFIEHNNNFRLPA--------NSDAPVIMIGPGTGIAPFRAFMQ
+Enterobacter_asburiae          EEGEVRVFIEHNDNFRLPA--------NPETPVIMIGPGTGIAPFRSFMQ
+Enterobacter_cloacae           EEGEVRVFIEHNDNFRLPA--------NPETPVIMIGPGTGIAPFRAFMQ
+Enterobacter_mori              EEGEVRVFIEHNDNFRLPA--------NPETPVIMIGPGTGIAPFRAFMQ
+Escherichia_coli               EEGEVRVFIEHNDNFRLPA--------NPETPVIMIGPGTGIAPFRAFMQ
+Escherichia_fergusonii         EEGEVRVFIEHNDNFRLPA--------NPETPVIMIGPGTGIAPFRAFMQ
+Shigella_dysenteriae           EEGEVRVFIEHNDNFRLPA--------NPETPVIMIGPGTGIAPFRAFMQ
+Psychromonas_ingrahamii        EGQQVKVFIEDNHNFRLPS--------NPETPVIMVGPGTGIAPFRAFLQ
+Pectobacterium_carotovorum     ESGMVPIFIQKSAHFRTPQ--------HPDTPIIMVGAGTGIAPFRAFLQ
+Pseudomonas_putida             VQ-KVAIFPQVSKHFRLPE--------DDSVPVIMVGPGTGIAPFRAFLE
+Sideroxydans_lithotrophicus    PGSSIEFSGPVGYPFVIPA--------NQSASLLMIGMGTGIAPFRGLIR
+Perkinsus_marinus              PGDTVAITGPTGKELLLPD--------DPDSKVLMLATGTGIAPFRGFLT
+Gloeobacter_violaceus          PGDDVSITGPTGKTFLLPE--------DPSTNLVLIATGTGIAPFRAFLR
+Cyanobium_sp-                  PGAKVKITGPVGKEMLLPD--------DEEANVIMLATGTGIAPMRAYLR
+Paulinella_chromatophora       PGAKTKMTGPVGKEMLLPA--------DEMANVIMLATGTGIAPMRTYLR
+Prochlorococcus_marinus        PGDKVKISGPVGKEMLLPE--------EEDSNIIMLATGTGIAPMRAYLR
+Cyanothece_sp-                 VGADVAITGPVGKEMLLPK--------DEDATIIMLATGTGIAPFRAFLW
+Microcystis_aeruginosa         VGADVAITGPVGKEMLLPG--------DEDATIIMMATGTGIAPFRAFLW
+cyanobacterium_UCYN-A          IGAEVSICGPVGQEMLLPD--------DEDANIVMLATGTGIAPFRAFLW
+Synechocystis_sp-              EGDDIAITGPVGKEMLLPP--------DEDANIVMLATGTGIAPFRAFLW
+Lyngbya_majuscula              PGDDVKITGPVGKEMLLPS--------DPNANIIMMATGTGIAPFRAFLW
+Acaryochloris_marina           PGAPVKITGPVGKEMLLPD--------DPEANVIMIATGTGIAPFRAYLW
+Thermosynechococcus_elongatus  PGDEVKITGPVGKEMLLSD--------DPEATIIMLATGTGIAPFRAFLW
+Lyngbya_sp-                    EGDDVSITGPVGKEMLLPD--------DEDATIIMMATGTGIAPFRAFIW
+Trichodesmium_erythraeum       EGADVAITGPVGKEMLLPD--------DEDATIIMIATGTGIAPYRAFLW
+Oscillatoria_sp-               PGAEVKITGPVGKEMLLPE--------DPESTIIMMATGTGIAPFRAFLW
+Microcoleus_vaginatus          PGDDVKITGPVGKEMLLPD--------DEEATIIMMATGTGIAPFRAYLW
+Arthrospira_maxima             AGADVAITGPVGKEMLLPE--------DEDATIIMMATGTGIAPFRAFLW
+Arthrospira_platensis          AGADVAITGPVGKEMLLPE--------DEDATIIMMATGTGIAPFRAFLW
+
+           351                                            400
+Query_id                       RMFKDAERAANP-------------------EYQFKGFSWLVFGVPTTPN
+Nostoc_sp-                     RMFKDAERAANP-------------------EYQFKGFSWLVFGVPTTPN
+Anabaena_variabilis            RMFKDAERAANP-------------------EYQFKGFSWLVFGVPTTPN
+'Nostoc_azollae'               RMFKDGERAANP-------------------EYQFKGFAWLLFGVPTTPN
+Nostoc_punctiforme             RQFKDAERAANP-------------------EYQFKGFSWLIFGVPTTPN
+Nodularia_spumigena            RMFKDAERAANP-------------------EYQFKGFSWLIFGVPTTPN
+Fischerella_sp-                RMFKDAERAVNP-------------------EYQFKGFSWLIFGVPTTPN
+Raphidiopsis_brookii           RMFKDVERSVNS-------------------EYQFNGFAWLLFGVPTTPN
+Cylindrospermopsis_raciborskii RMFKDAERSVNS-------------------QYQFNGFAWLLFGVPTTPN
+Synechococcus_elongatus        RMFKDNERAINS-------------------EYQFNGKAWLIFGIPTTAN
+Synechococcus_sp-              HLFEE--------------------------DPNYQGKIWLFFGVPTTST
+Sorghum_bicolor                RMFMEDVP-----------------------NYRFGGLAWLFLGVANSDS
+Oryza_sativa                   RMFMEDVP-----------------------KYRFGGLAWLFLGVANTDS
+Zea_mays                       RMFMEDVP-----------------------TFKFGGLAWLFLGVANSDS
+Vitis_vinifera                 RMFMEDVP-----------------------SFRFG--------------
+Ricinus_communis               RMFMEDVP-----------------------TFKFGGLAWLFLGVANTDS
+Populus_trichocarpa            RMFMEAVP-----------------------TYKFGGLAWLFLGVANNDS
+Arabidopsis_thaliana           RMFMENVP-----------------------NKTFSGLAWLFLGVANTDS
+Arabidopsis_lyrata             RMFMENVP-----------------------NFKFDGLAWLFLGVANSDS
+Physcomitrella_patens          RMFMEDT------------------------EFKFNGLAWLFMGVANTDS
+Micromonas_pusilla             RFFVEDVK-----------------------NWEFKGLAWLFMGVANSDA
+Micromonas_sp-                 RFFVEDVK-----------------------SWEFKGLAWLFMGVANSDA
+Ostreococcus_lucimarinus       RFFLEDVP-----------------------NWEFKGLAWLFMGVANSDA
+Ostreococcus_tauri             RFFLEDIP-----------------------SWEFKGLAWLFMGVANSDA
+Volvox_carteri                 RCFMENVP-----------------------SYKFTGLFWLFMGVANSDA
+Chlamydomonas_reinhardtii      RCFIENVP-----------------------SYKFTGLFWLFMGVANSDA
+Selaginella_moellendorffii     RMFVEEV------------------------PFKFDGLAWLFLGVASSKS
+Phaeodactylum_tricornutum      RLFLENTVA----------------------KQMYQGQAWLILGVSVTGG
+Thalassiosira_pseudonana       RLFMENTLA----------------------RHMFGGSAWLVLGVPVSGG
+Toxoplasma_gondii              ALRRKLLSAGGPS----------------AAQPANRPKVLLFIGARTAAA
+Rhodobacteraceae_bacterium     RRQRKVGTVHGG--------------------------MTMFFGARTPDS
+Roseobacter_sp-                QRQR--SGATGG--------------------------MTMFFGARAPKS
+Sagittula_stellata             RRQRTVGGKSGG--------------------------MVMFFGARTPDA
+Ruegeria_pomeroyi              RRQRESPKLRNS--------------------------LTLVFGARRPQE
+Bordetella_petrii              RCRRRIERGTNGR-------------------------LMLFFGARTQRE
+Aromatoleum_aromaticum         RRRRRIAQNEGGE-------------------------LVLFFGARAPSE
+Plasmodium_falciparum          KLFAYDKN--NLY----------------NRNSNYTGYITIYYGVYNEDS
+Plasmodium_berghei             KLLICDKN--NPI----------------KKN-TYSGFIHIFYGVYNEDS
+Plasmodium_yoelii              KLLIYDEN--NTI----------------KKN-TYSGFIHLFYGVYNEDS
+Plasmodium_chabaudi            KILMYDEN--NLI----------------KRS-TYSGFIHLFYGVYNEDS
+Plasmodium_knowlesi            KIWGYQPG--IHQ----------------QKK-TYNGQVYLYYGVYYEDS
+Plasmodium_vivax               KIWGNQKG--NFP----------------QKKPSYKGQIYLFYGVYNEDS
+Theileria_parva                TILNQTSNSTSTLNKIELTLGKNELTLGKKELVPVVRRIVLFFGIQNAST
+Bradyrhizobium_sp-             DRRATGAP----------------------------GKNWLFFGHQRSDC
+Bradyrhizobium_japonicum       DRKATGAP----------------------------GKNWLFFGHQRSDC
+Bradyrhizobiaceae_bacterium    DRQATKAP----------------------------GRNWLFFGHQRSEY
+Rhodopseudomonas_palustris     ERQAIQAP----------------------------GKNWLFFGHQRSAS
+Xanthobacter_autotrophicus     ERLATKAP----------------------------GRNWLFFGHQKRDT
+Methylobacterium_populi        ERAATKAP----------------------------GRNWLFYGHQRQAT
+Pusillimonas_sp-               ERSATEAS----------------------------GRNWLFFGNPHFAS
+gamma_proteobacterium          ERIESGAA----------------------------GRNWLFFGAQHFDT
+Pectobacterium_wasabiae        QRDAEGAE----------------------------GKNWLFFGNPHFTE
+Enterobacter_asburiae          QRVADDAS----------------------------GKNWLFFGNPHFTE
+Enterobacter_cloacae           QRAADEAP----------------------------GKNWLFFGNPHFTE
+Enterobacter_mori              QRAADEAS----------------------------GKNWLFFGNPHFTE
+Escherichia_coli               QRAADEAP----------------------------GKNWLFFGNPHFTE
+Escherichia_fergusonii         QRAADEAP----------------------------GKNWLFFGNPHFTE
+Shigella_dysenteriae           QRAADEAP----------------------------GKNWLFFGNPHFTE
+Psychromonas_ingrahamii        ERDATEAT----------------------------GKNWLFFGEQTFTE
+Pectobacterium_carotovorum     ERQATKAQ----------------------------GKNWLFFGEQYAAT
+Pseudomonas_putida             EREARGAK----------------------------GDNWLFFGEQYAAT
+Sideroxydans_lithotrophicus    MLYEQHGG--------------------------WKGKVRLFHGARTGLE
+Perkinsus_marinus              SEFCRGID-------------------------QGEGKLWLILGVADRSS
+Gloeobacter_violaceus          RIYDE------M-------------------DTPWQGKVWLFFGMQNSNS
+Cyanobium_sp-                  RMFEPAEREKN--------------------GWTFRGKAWLIMGVPTTPN
+Paulinella_chromatophora       RMFEPGERSKNP-------------------EYQFRGKAWLFMGAPTTAN
+Prochlorococcus_marinus        RMFEPTEIEKH--------------------QWNFKGKAWLFMGAPKTAN
+Cyanothece_sp-                 RMFKE----QHE-------------------DYKFKGLAWLIFGVPYTGN
+Microcystis_aeruginosa         RMFKE----QHE-------------------DYKFKGLAWLIFGVPKTAN
+cyanobacterium_UCYN-A          RMFKE----QHT-------------------DYKFKGFSWLIFGIPYSAN
+Synechocystis_sp-              RMFKE----QHE-------------------DYKFKGLAWLIFGIPKSEN
+Lyngbya_majuscula              RMFKE----QHE-------------------DYKFKGLAWLIFGISTTPN
+Acaryochloris_marina           RLFQE----KHP-------------------DYQFKGNAWLFFGVPYTAN
+Thermosynechococcus_elongatus  RMFKE----NNP-------------------DYQFKGLAWLFFGVAYTAN
+Lyngbya_sp-                    RMFKERE--QNP-------------------DYQFKGLAWLFFGCAYTPN
+Trichodesmium_erythraeum       RMFKERE--QNP-------------------DYQFKGLAWLFFGCPYTPN
+Oscillatoria_sp-               RMFKE----NNP-------------------DYKFKGLAWLFFGVAYTPN
+Microcoleus_vaginatus          RMFKE----NNP-------------------DYKFKGLAWLFLGVAYTPN
+Arthrospira_maxima             RMFKE----QHE-------------------DYKFKGLAWLFFGIPYSPN
+Arthrospira_platensis          RIFKE----QHE-------------------DYKFKGLAWLFFGIPYSPN
+
+           401                                            450
+Query_id                       ILYKEELEEIQQKYP----DNFRLTYAISREQKNPQ-GGRMYIQDRVAEH
+Nostoc_sp-                     ILYKEELEEIQQKYP----DNFRLTYAISREQKNPQ-GGRMYIQDRVAEH
+Anabaena_variabilis            ILYKEELEEIQQKYP----DNFRLTYAISREQKNPQ-GGRMYIQDRVAEH
+'Nostoc_azollae'               ILYKEELEEMQQKYP----DNFRLTYAISREQKNAE-GGRMYIQDRVAEH
+Nostoc_punctiforme             LLYKEELEEIQQKYP----ENFRLTAAISREQKNPQ-GGRMYIQDRVAEH
+Nodularia_spumigena            ILYKEELEQMQEKYP----DNFRLTCAISREQKNPQ-GGRMYIQDRVAEH
+Fischerella_sp-                ILYKEELEEIQGKYP----DNFRLTYAISREQKNPQ-GGRMYIQDRVAEH
+Raphidiopsis_brookii           ILYKEELEEIQAQYP----NNFRLTYAISREQKNPE-GGRMYIQDRVAEN
+Cylindrospermopsis_raciborskii ILYKEELEEMQAQYP----NNFRLTYAISREQNNPE-GGRMYIQDRVAEN
+Synechococcus_elongatus        ILYKEELEALQAQYP----DNFRLTYAISREQKNEA-GGRMYIQDRVAEH
+Synechococcus_sp-              LLYHGDLEAWKAQYG----DRFRVDYAISREQQTPD-GKKMYVQNRMAEY
+Sorghum_bicolor                LLYDEEFTSYLKQYP----DNFRYDKALSREQKNRS-GGKMYVQDKIEEY
+Oryza_sativa                   LLYDEEFTSYLKQYP----DNFRYDKALSREQKNKN-AGKMYVQDKIEEY
+Zea_mays                       LLYDEEFTNYLQQYP----DNFRYDKALSREQKNKS-GGKMYVQDKIEEY
+Vitis_vinifera                 ----------------------XYDKALSREQKNRN-GGKMYVQDKIEEY
+Ricinus_communis               LLYDDEFTKYLEDYP----DHFRYDKALSREQKNKN-GGKMYVQDKIEEY
+Populus_trichocarpa            LLYDEEFAKYLQDNP----DHFRYDKALSREQKNKS-GGKMYVQDKIEEY
+Arabidopsis_thaliana           LLYDEEFTKYLKDHP----DNFRFDKALSREEKNKK-GGKMYVQDKIEEY
+Arabidopsis_lyrata             LLYDEEFTGYLKDYP----ENFKYDKALSREEKNKK-GGKMYVQDKIEEY
+Physcomitrella_patens          LLYHDEFNTYLKEYP----DNFRYDIALSREQKNSR-GGKLYVQDKMEEY
+Micromonas_pusilla             KLYDDEFSECIKRFP----GQFRVDYALSRESQNRK-GGKMYIQDKVEEY
+Micromonas_sp-                 KLYDDEIQECIKRFP----GQFRCDYALSREQTNKN-GGKMYIQDKVEEY
+Ostreococcus_lucimarinus       KLYDDEFQECAKRFP----DQFRIDYALSREDTNKN-GGKMYIQDKVEEY
+Ostreococcus_tauri             KLYDDEFQEMVKRFP----DQFRIDYALSREDTNKN-GGKMYIQDKVEEY
+Volvox_carteri                 KLYDEELQALAKAYP----SQFRLDYALSREQKNRK-GGKMYIQDKVEEY
+Chlamydomonas_reinhardtii      KLYDEELQAIAKAYP----GQFRLDYALSREQNNRK-GGKMYIQDKVEEY
+Selaginella_moellendorffii     LLYHDEFERIARDFP----SSFRYDLALSREMVDRS-GGKFYVQHRIKER
+Phaeodactylum_tricornutum      LLYADEFERMQQPSNTNWPGQLRVDYAISREMKNQQ-GGKLYVQDVLSEE
+Thalassiosira_pseudonana       LLYKEEFDCMLRNAS---PNQLRIDYAISREMTNTIDGGKLYVQHVIAQN
+Toxoplasma_gondii              VPYMNEWRDIEAQRDG---NFVDIHFALSRQMKNPQ-GKKLYIQDVVWQE
+Rhodobacteraceae_bacterium     LPYFGPLQKVPTN-------LLEQHLVFSRQQGQEK-E---YVQHRMLKE
+Roseobacter_sp-                LPYFGPLKKVPES-------LMKQHLVFSREAGKDK-E---YVQDRILAE
+Sagittula_stellata             LPYFGPLKKVPEA-------LLEQHLVYSRQ-GDAK-E---YVQDRMRAE
+Ruegeria_pomeroyi              LPYFGPLAKVPEQ-------FMAKHFAFSRQDGAPK-H---YVQDRLRAE
+Bordetella_petrii              LPYFGPLMKLPRD-------FIDINLALSRDASQPR-R---YVQDLIRER
+Aromatoleum_aromaticum         LPYFGPLQKLPKD-------FIDINFAFSRVPGEPK-K---YVQDSIRER
+Plasmodium_falciparum          ILYLNELEYFQKMYP----NNINIHYVFSYKQNSDA--TSFYVQDEIYKR
+Plasmodium_berghei             ILYLEELEKFKKLYP----NNLHIHYVFSVNKKLDG--SSFYVQDEILKK
+Plasmodium_yoelii              ILYLNELEKFKKLYP----NNLHIHYVFSANKKLDG--SSFYVQDEIFRK
+Plasmodium_chabaudi            ILYLNELENFKKLYP----NNLHIHYVFS---------------------
+Plasmodium_knowlesi            ILYLPELKYFQNMYP----NNFHVEYVFSSIKNSDG--TSHHVQDEIYKK
+Plasmodium_vivax               ILYLQELQQFVKMHP----GNFHVEYVFSSAKNLDG--TSHHVQDEIYRR
+Theileria_parva                FLYKSELEHYQKLFG----DSMTLIPCFSREANTPK----CYVQDGILAN
+Bradyrhizobium_sp-             DFFYADELNAMKTAG----LLTRLSLAWSRDGDKKF-----YVQDRMREV
+Bradyrhizobium_japonicum       DFFYQEELNAMKTSG----LLTRMSLAWSRDGEKKF-----YVQDRMREV
+Bradyrhizobiaceae_bacterium    DFFYSDELNAMKASG----LLTRLSLAWSRDGAEKF-----YVQDRMREV
+Rhodopseudomonas_palustris     DFFYEDELKAMKNAG----HLTRLTLAWSRDSGEKI-----YVQDRMREV
+Xanthobacter_autotrophicus     DFFYEDELNGLQACG----TLTRLDTAWSRDGAAKV-----YVQDKIRAA
+Methylobacterium_populi        DFFYKDELNGLKDDK----VLTRLSLAWSRDGKEKT-----YVQDRMREN
+Pusillimonas_sp-               DFLYQTEWQQALKDG----GLHRLDLAFSRDQVNKV-----YVQDKLLEQ
+gamma_proteobacterium          QFLYQTEWQDALKKK----HLNRIDLAFSRDQQEKI-----YVQHLIEKQ
+Pectobacterium_wasabiae        DFLYQVEWQRYVKDG----LLTAIDLAWSRDQAHKV-----YVQDKLREK
+Enterobacter_asburiae          DFLYQVEWQRYVKEG----VLSRIDLAWSRDQKEKV-----YVQDKLREQ
+Enterobacter_cloacae           DFLYQVEWQRYVKEG----VLTRIDLAWSRDQKEKV-----YVQDKLREQ
+Enterobacter_mori              DFLYQVEWQRYVKEG----VLTRIDLAWSRDQKEKV-----YVQDKLREQ
+Escherichia_coli               DFLYQVEWQRYVKEG----VLSRIDLAWSRDQKEKV-----YVQDKLREQ
+Escherichia_fergusonii         DFLYQVEWQRYVKEG----VLTRIDLAWSRDQKEKV-----YVQDKLREQ
+Shigella_dysenteriae           DFLYQVEWQRYVKEG----VLTRIDLAWSRDQKEKV-----YVQDKLREQ
+Psychromonas_ingrahamii        DFLYQTEWQGFLKSG----LLTNLDLAFSRDQAEKI-----YVQDRLKEH
+Pectobacterium_carotovorum     DFYYREELEKLQRDG----YLHRLDTAFSRDQHEKI-----YVQHRMCEQ
+Pseudomonas_putida             DFYYQEQLQAWEAAG----HLR-LNTAFSRDQVEKI-----YVQQRMLEQ
+Sideroxydans_lithotrophicus    MPYLNDANNDLGNYF-----DQPTFKAFQAVSPRPMFDAPVALDNALEQN
+Perkinsus_marinus              ILYPQELSDCVSANS----DRLRVDYALSREEKDEQ-GRKMYIQSKMRQC
+Gloeobacter_violaceus          YLYQDELAGYTAK------GDFEIVEAISREQKNAQ-GGRMYVQHRIAEH
+Cyanobium_sp-                  LLYDADFEHYQSQFP----DNFRYTKAISREQKNAK-GGRMYIQDRVLEN
+Paulinella_chromatophora       LLYDDDFNRYQSEFP----ENFRYTKAISREQQNTS-GGRMYIQDRVTEH
+Prochlorococcus_marinus        LLYDADFEHYKSKFP----ENLRYTKAISREQNNTK-GGRMYIQDRVLEH
+Cyanothece_sp-                 ILYKQELEELAETYK----DHFRLTYAISREQKNAE-GGRMYIQHRVAEH
+Microcystis_aeruginosa         ILYQEELEKIAAEFP----DNFRLTYAISREQQNPQ-GGRMYIQHRVAEH
+cyanobacterium_UCYN-A          ILYKEDLEKIQADYP----ENFELTYAISREQQNSE-GGRMYIQHRVAEQ
+Synechocystis_sp-              ILYKDDLEKMAAEFP----DNFRLTYAISREQQNAE-GGRMYIQHRVAEN
+Lyngbya_majuscula              ILYKDDLEEMQQNNP----DNFRLTYAISREQKNSE-GGKMYIQHRVAEH
+Acaryochloris_marina           ILYKEQLEALATQFS----DQFQLTYAISREQQNPQ-GGKMYIQHRIAEQ
+Thermosynechococcus_elongatus  ILYKDELEAIQAQYP----DHFRLTYAISREQKTPD-GGKMYIQGRIAEH
+Lyngbya_sp-                    ILYKEELEELQRQFP----DNFRVTYAVSREQKNKD-GGKMYIQHRIQEN
+Trichodesmium_erythraeum       ILYKEELEELQREFP----DNFRLTYAISREQKNKD-GGKMYIQHRIQEN
+Oscillatoria_sp-               ILYKEELEKLQAEFP----DNFRLTYAISREQKSAQ-GGKMYIQNRIQEN
+Microcoleus_vaginatus          ILYKEELEQLQREFP----DNFRLTYAISREQKNAD-GGKMYIQNRIQEN
+Arthrospira_maxima             ILYQQELEELQQQFP----ENFRLTLAISREQQNPE-GGKMYIQDRIKEN
+Arthrospira_platensis          ILYQQELEELQQQFP----ENFRLTLAISREQQNPE-GGKMYIQDRIKEN
+
+           451                                            500
+Query_id                       ADELWQLIKNQKTHTYICGLRGMEEGIDAALSAAAAKEGVTWSDYQK---
+Nostoc_sp-                     ADELWQLIKNEKTHTYICGLRGMEEGIDAALSAAAAKEGVTWSDYQK---
+Anabaena_variabilis            ADELWQLIKNEKTHTYICGLRGMEEGIDAALSAAAAKEGVTWSDYQK---
+'Nostoc_azollae'               ADELWQLIKNEKTHTYICGLRGMEGGIDAALSAAAAKEGVTWSDYQK---
+Nostoc_punctiforme             ADELWQLIKNEKTHTYICGLRGMEEGIDAALTAAAAKEGVTWSDYQK---
+Nodularia_spumigena            ADELWQLIKEEKTHTYICGLRGMEGGIDEALTAAAAKEGVVWSDYQK---
+Fischerella_sp-                ADELWSLIKNEKTHTYICGLRGMEDGIDAALSAAAAKEGVNWSDYQK---
+Raphidiopsis_brookii           ANELWQLIKNPKTHTYICGLRGMEDGIDAALSKAAAQEGVTWSDYQK---
+Cylindrospermopsis_raciborskii ANELWQLIKNPKTHTYICGLRGMEDGIDAALSKAAAQEGVTWSDYQK---
+Synechococcus_elongatus        ADEIWNLLKDEKTHVYICGLRGMEDGIDQAMTVAAAKEDVVWSDYQR---
+Synechococcus_sp-              GAELWEMLQQPNTYTYICGLKGMEDGINNVMGPLAEQAGQDWSKFQK---
+Sorghum_bicolor                SDEIFKLLDG-GAHIYFCGLKGMMPGIQDTLKKVAEQRGESWDQKLS---
+Oryza_sativa                   SDEIFKLLDG-GAHIYFCGLKGMMPGIQDTLKKVAEQRGESWEQKLS---
+Zea_mays                       SDEIFRLLDG-GAHIYFCGLKGMMPGIQDTLKKVAEQRGESWDQKLS---
+Vitis_vinifera                 SDEIFKLLDG-GAHIYFCGLKGMMPGIQETLKRVADQRGENWEEKLA---
+Ricinus_communis               SDEIFKLLDG-GAHIYFCGLKGMMPGIQDTLKKVAEQRGESWDQKLS---
+Populus_trichocarpa            SDEIFKRLDD-GAHIYFCGLKGMMPGIQDTLKKVAEQRGEKWDEKLS---
+Arabidopsis_thaliana           SDEIFKLLDN-GAHIYFCGLKGMMPGIQDTLKRVAEERGESWDLKLS---
+Arabidopsis_lyrata             SDEIFKLLDN-GAHIYFCGLKGMMPGIQDTLKRVAEERGESWEQKLT---
+Physcomitrella_patens          SEELFDKLDK-GAHIYFCGLRGMMPGIQDMLKRVAESRGESWETKLA---
+Micromonas_pusilla             KDQVFQLLDG-GAHMYFCGLKGMMPGILEMLEGVCKEKGIDYEEWLE---
+Micromonas_sp-                 KDQIFQLLDG-GAHMYFCGLKGMMPGILEMLEGVCKEKGINYEEWLE---
+Ostreococcus_lucimarinus       KDQVFQLLDG-GAHMYFCGLKGMMPGILSMLEGVCKEKGISYEEWLE---
+Ostreococcus_tauri             KDQVFQLLDG-GAHMYFCGLKGMMPGILSMLEGVCKEKGISYEEWLE---
+Volvox_carteri                 SDEIFDLLDN-GAHMYFCGLKGMMPGIQEMLERVAKSKGLNYEEWVE---
+Chlamydomonas_reinhardtii      ADEIFDLLDN-GAHMYFCGLKGMMPGIQDMLERVAKEKGLNYEEWVE---
+Selaginella_moellendorffii     GKEVLELLES-GGHIYFCGREEMMEGIQETFRKLC---GDSWHEKLS---
+Phaeodactylum_tricornutum      AEMLWTKLED-GAIIYFCGLKGMMPGILEALEDVAKARGKVWSQTLR---
+Thalassiosira_pseudonana       GKELFNRLDN-GAHIYFCGLKGMLPGILESLEGVAKEQGVDWTAKLS---
+Toxoplasma_gondii              REKVWKALDRDGGHLYACGLKNMMVGVHEVLGNMAEEKGLPRDHLAS---
+Rhodobacteraceae_bacterium     KEAVADMLQDANSYVYICGLREMEAGVEAALTEIAGSFDENWQNLRD---
+Roseobacter_sp-                QDSVAELLADDRTYIYICGLRGMEEGVEKAMTSIAESMGQQWATLRD---
+Sagittula_stellata             EERVAELLQDLKTHVYICGLRGMEEGVEKALTNIAESIGQQWTALRD---
+Ruegeria_pomeroyi              ADRVGELLADPLTHVYVCGLKAMEQGVEEAFKDIARAQGIDWTGLRD---
+Bordetella_petrii              AADVLDLLADPNTCIYVCGLKGMESGVLDALRDVVVQAGQDWTILHA---
+Aromatoleum_aromaticum         ADKVFRMLNDDNCYIYICGLKGMESGVLEAFRDICRANGADWEALQP---
+Plasmodium_falciparum          KTEFLNLFNNYKCELYICG----HKSIRYKVMDILKSHD-QFDEKKK---
+Plasmodium_berghei             KDEFFHLFNDYETELYICG----H--------------------------
+Plasmodium_yoelii              KDEFFHLFNNYQTELYICG----HKAIKQQIMNILKSDQ-NFDASKK---
+Plasmodium_chabaudi            --------------------------------------------------
+Plasmodium_knowlesi            RENFLRLFNELNCELYICG----HKSIRAKIMDILKGENPVLDSEKK---
+Plasmodium_vivax               RENFLRLFNDLKCELYICG----HKSIRAKIMEILKGDDQVWDAEKR---
+Theileria_parva                ETLLSEVLCG-RCSIFVCGRKEIEDPVKKSLDLIFSHLSDSQKALIN---
+Bradyrhizobium_sp-             GREVWTWLAEGAHLYICGDAKRMAKDVERALVDIVAHFGARSTDEAVSFV
+Bradyrhizobium_japonicum       GRELWTWLAEGAHLYICGDAKRMAKDVERALVDIVAQFGARSTDEAVSFV
+Bradyrhizobiaceae_bacterium    GRELWTWLADGAHVYVCGDAKRMAKDVERALVDITAQFGARSTDEAIAFV
+Rhodopseudomonas_palustris     GRDLWSWLTEGASLYVCGDAKRMAKDVERALVDIVAQHGARSAAEATAFV
+Xanthobacter_autotrophicus     GPELWAWLQAGAHFYICGDAKRMAKDVEAAVTAVAAEHGGLSAEAAARFV
+Methylobacterium_populi        GAELWKWLEGGAHFYVCGDAKRMAKDVERAIIDVAAQFGGKNPDEAVAYL
+Pusillimonas_sp-               ASELFDWIQSGAHIYVCGDATHMAKDVHQALLQIAQQEGGLDTAQAKEWL
+gamma_proteobacterium          GAELYAWLQNGAHFYVCG-STDMEKDVKAALLKAIAQHSGKGDEFANAWF
+Pectobacterium_wasabiae        GAEVWRWIQDGAHLYVCGDANRMAKDVEQALLDVIVEHGGMDSEQADEFL
+Enterobacter_asburiae          GAELWRWINDGAHIYVCGDANRMAKDVEQALLEVIAEFGGMDAETADEYL
+Enterobacter_cloacae           GAELWRWINDGAHIYVCGDANRMAKDVEQALLEVIAEFGGMDAEAADEFL
+Enterobacter_mori              GAELWRWINDGAHIYVCGDANRMAKDVEQALLEVIAEFGGMDAETADEFL
+Escherichia_coli               GAELWRWINDGAHIYVCGDANRMAKDVEQALLEVIAEFGGMDTEAADEFL
+Escherichia_fergusonii         GAELWRWINDGAHIYVCGDANRMAKDVEQALLEVIAEFGGMDTEAADEFL
+Shigella_dysenteriae           GAELWRWINDGAHIYVCGDANRMAKDVEQALLEVIAEFGGMDTEAADEFL
+Psychromonas_ingrahamii        AHEIYQWLQEGAHFYVCGDANRMAKDVQQTLIEIIGSQGKKSLEDAEQYL
+Pectobacterium_carotovorum     GAELWRWLEEGAHFYVCGDASRMAKDVDLALRQVAQAHGGMNSEQAAAYV
+Pseudomonas_putida             GALLWQWLEAGAYFYVCGDAQRMARDVDAALRVIVAEHGRMDAAAAAAYV
+Sideroxydans_lithotrophicus    AAEVWEIINSPDSRIYVAGQSQMHTLIDKAMTSIAGSSDAWLSKRNE---
+Perkinsus_marinus              GEDIWRWLQEPNFHLYMCGMKAMESGVHEALSEICASHGSDWKEILA---
+Gloeobacter_violaceus          AAALWELISGGNTYTYICGLKGMEDGIDDAFTAAAAAKDTVWKDYRY---
+Cyanobium_sp-                  ADEIFSMIEDPKTHVYMCGLRGMEPGIDEAMTAAAAAKGIDWSELRP---
+Paulinella_chromatophora       ADEIFGMIEDSRTHVYMCGLRGMEPGIDQAMTAAAQAKGFNWAELRP---
+Prochlorococcus_marinus        AEEIFDMIENPKTHIYLCGLKGMEPGIDEAMTTAASAKGLDWSELRP---
+Cyanothece_sp-                 SAELWDLIQKPNTHTYMCGLKGMEDGIDAALSAQAAASGTDWATYQK---
+Microcystis_aeruginosa         ADEIWNLLQSPKTHAYMCGLKGMEDGIDDAISGAAAKNGADWSVYQK---
+cyanobacterium_UCYN-A          AEKLWNLLQDPKTHLYMCGLKGMESGIEEGLSPYAAQNGVEWSTFVK---
+Synechocystis_sp-              AEELWNLMQNPKTHTYMCGLKGMEPGIDEAFTALAEQNGKEWTTFQR---
+Lyngbya_majuscula              ADELWKLMQQPNTHTYICGLKGMEGGIDEALTAAAAKEDVDWTTYRQ---
+Acaryochloris_marina           ADALWELIQNDKTHTYICGLKGMEGGIDDGMSVAAQKHGVDWIEYRK---
+Thermosynechococcus_elongatus  ADEIWQLLQKKNTHVYMCGLRGMEPGIDEAMTAAAAKNGADWQEFLKG--
+Lyngbya_sp-                    ADELWQLNQKPNTHTYICGLKGMEGGIDEGMSAAASKFGADWSEFQK---
+Trichodesmium_erythraeum       AEELWQLIQKPNAHTYICGLKGMEDGIDEGMSAVTGQFDIDWGDYQK---
+Oscillatoria_sp-               ADQLWELVQKPNTHTYICGLKGMEGGIDEGMSAAAGKYDVNWSDYQK---
+Microcoleus_vaginatus          ADQLWELVQKPNTHTYICGLKGMEGGIDEGMSAASSKYGVEWAAYQK---
+Arthrospira_maxima             ADQLWELIQKPNTHTYICGLKGMEGGIDEGMSAAAGKFDVDWSDYQK---
+Arthrospira_platensis          ADQLWELIQKPNTHTYICGLKGMEGGIDEGMSAAAGKFDVDWSDYQK---
+
+                               501        514
+Query_id                       -DLKKAGRWHVETY
+Nostoc_sp-                     -DLKKAGRWHVET-
+Anabaena_variabilis            -DLKKAGRWHVET-
+'Nostoc_azollae'               -DLKKAHRWHVET-
+Nostoc_punctiforme             -QLKKAGRWHVET-
+Nodularia_spumigena            -QLKKAHRWHVET-
+Fischerella_sp-                -EIKKAGRWHVET-
+Raphidiopsis_brookii           -AIQKRRTLACRN-
+Cylindrospermopsis_raciborskii -AIKKEGRWHVET-
+Synechococcus_elongatus        -TLKKAGRWHVETY
+Synechococcus_sp-              -ELKKADRWHEETY
+Sorghum_bicolor                -QLKKNKQWHVEVY
+Oryza_sativa                   -QLKKNKQWHVEVY
+Zea_mays                       -QLKKNKQWHVEVY
+Vitis_vinifera                 -QLKKNKQWHVEVY
+Ricinus_communis               -QLKKNKQWHVEVY
+Populus_trichocarpa            -QLKKKKQWHVEVY
+Arabidopsis_thaliana           -QLRKNKQWHVEVY
+Arabidopsis_lyrata             -QLRKNKQWHVEVY
+Physcomitrella_patens          -ALKKNKQWHVEVY
+Micromonas_pusilla             -GLKKKGQWHVEVY
+Micromonas_sp-                 -GLKEKGQWHVEVY
+Ostreococcus_lucimarinus       -GLKKKGQWHVEVY
+Ostreococcus_tauri             -GLKKNGQWHVEVY
+Volvox_carteri                 -GLKHRNQWHVEVY
+Chlamydomonas_reinhardtii      -GLKHKNQWHVEVY
+Selaginella_moellendorffii     -GWKRNKQWHVDVY
+Phaeodactylum_tricornutum      -RLKANGQWHVEVY
+Thalassiosira_pseudonana       -ELKKNNQWHVEVY
+Toxoplasma_gondii              -LLKHQRRWHVEV-
+Rhodobacteraceae_bacterium     -RMREDGRYHVETY
+Roseobacter_sp-                -AMREDGRYHVETY
+Sagittula_stellata             -AMRDEGRYHVETY
+Ruegeria_pomeroyi              -RMRDEGRYHVETY
+Bordetella_petrii              -ALRREGRLHFETY
+Aromatoleum_aromaticum         -KLLANARFHVETY
+Plasmodium_falciparum          ------KRVHVEVY
+Plasmodium_berghei             --------------
+Plasmodium_yoelii              ------KRVHVEVY
+Plasmodium_chabaudi            --------------
+Plasmodium_knowlesi            ------KRVHVEVY
+Plasmodium_vivax               ------KRVHVEVY
+Theileria_parva                ------TKFEVYQ-
+Bradyrhizobium_sp-             ADLKKKGRFQLDVY
+Bradyrhizobium_japonicum       AELKKTGRFQADVY
+Bradyrhizobiaceae_bacterium    ADLKKKGRYQQDVY
+Rhodopseudomonas_palustris     SELKKQGRYQQDVY
+Xanthobacter_autotrophicus     ADLKTAGRYQADVY
+Methylobacterium_populi        AALKKAGRYQADVY
+Pusillimonas_sp-               DELAAQGRYARDVY
+gamma_proteobacterium          AEAQKEGRYSRDVY
+Pectobacterium_wasabiae        SDLRLERRYQRDVY
+Enterobacter_asburiae          SELRVERRYQRDVY
+Enterobacter_cloacae           SELRVERRYQRDVY
+Enterobacter_mori              SELRVERRYQRDVY
+Escherichia_coli               SELRVERRYQRDVY
+Escherichia_fergusonii         SELRVERRYQRDVY
+Shigella_dysenteriae           SELRVERRYQRDVY
+Psychromonas_ingrahamii        TELRQAKRYQRDVY
+Pectobacterium_carotovorum     AKMAQDKRYVRDVY
+Pseudomonas_putida             EGLSKARRYRRDVY
+Sideroxydans_lithotrophicus    --LVAAGRWQEVLY
+Perkinsus_marinus              -RMRKEGRYHAEVY
+Gloeobacter_violaceus          -NLKQSGFWHVETY
+Cyanobium_sp-                  -QLKKADRWHVETY
+Paulinella_chromatophora       -QLKKAERWHVETY
+Prochlorococcus_marinus        -KLRKAGRWHAETY
+Cyanothece_sp-                 -QLKKDHRWHVETY
+Microcystis_aeruginosa         -QLKKEHRWHVETY
+cyanobacterium_UCYN-A          -QLKKEHRWHVEVY
+Synechocystis_sp-              -EMKKEHRWHVETY
+Lyngbya_majuscula              -QMKKAHRWHVETY
+Acaryochloris_marina           -ALKKAGRWHVETY
+Thermosynechococcus_elongatus  -TLKKEGRWHVETY
+Lyngbya_sp-                    -QLKKDHRWHVETY
+Trichodesmium_erythraeum       -KLKKEGRWHVETY
+Oscillatoria_sp-               -QLKKNHRWHVETY
+Microcoleus_vaginatus          -QLKKEHRWHVETY
+Arthrospira_maxima             -QLKKKHRWHVETY
+Arthrospira_platensis          -QLKKKHRWHVETY
+
