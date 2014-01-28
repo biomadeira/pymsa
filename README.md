@@ -1,17 +1,16 @@
-﻿BLOCKS
-========
+﻿## Some Python routines to work with Multiple Sequence Alignments (MSA)
 Routines to get blocks of conserved/gappy columns in Multiple Sequence Alignments (MSA). 
 Converts fasta format to msf (needs seqret). 
 Scores an MSA with the Sum-of-pairs scoring function.
 
-##Dependencies
+###Dependencies
 
 [Biopython 1.58](http://biopython.org/)
 
 Optional:
 [seqret](http://emboss.sourceforge.net/) for converting fasta->msf
 
-##Usage
+###Usage
 	-c              Creates *.blocks with conserved columns
 	-g              Creates *.blocks with gappy columns
 	-msf            Converts any *.fa or *.fasta file to *.msf
